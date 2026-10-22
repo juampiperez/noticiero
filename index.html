@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Noticiero</title>
+<style>
+:root{--bg:#fff;--text:#0f1419;--muted:#536471;--line:#eff3f4;--accent:#1d9bf0;--hover:#f7f9f9}
+@media (prefers-color-scheme:dark){:root{--bg:#000;--text:#e7e9ea;--muted:#71767b;--line:#2f3336;--hover:#080808}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:15px/1.4 -apple-system,"Segoe UI",Roboto,Arial,sans-serif}
+main{max-width:600px;margin:0 auto;border-left:1px solid var(--line);border-right:1px solid var(--line);min-height:100vh}
+header{position:sticky;top:0;background:var(--bg);border-bottom:1px solid var(--line);z-index:5}
+h1{margin:0;padding:12px 16px 4px;font-size:20px}
+#updated{padding:0 16px 8px;color:var(--muted);font-size:13px}
+nav{display:flex;overflow-x:auto}
+nav button{flex:1 0 auto;background:none;border:0;border-bottom:4px solid transparent;color:var(--muted);font:inherit;font-weight:600;padding:12px 16px;cursor:pointer;white-space:nowrap}
+nav button.on{color:var(--text);border-bottom-color:var(--accent)}
+article{display:flex;gap:12px;padding:12px 16px;border-bottom:1px solid var(--line)}
+article:hover{background:var(--hover)}
+.av{flex:0 0 44px;height:44px;border-radius:50%;color:#fff;font-weight:700;display:flex;align-items:center;justify-content:center}
+.body{min-width:0;flex:1}
+.top{color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.top b{color:var(--text)}
+.title{margin:2px 0;font-weight:600;overflow-wrap:anywhere}
+.sum{margin:2px 0 6px;overflow-wrap:anywhere}
+.foot{color:var(--muted);font-size:13px}
+.foot a{color:var(--accent);text-decoration:none}
+#feed>p{padding:24px 16px;color:var(--muted)}
+</style>
+</head>
+<body>
+<main>
+<header>
+  <h1>Noticiero</h1>
+  <div id="updated"></div>
+  <nav id="tabs"></nav>
+</header>
+<div id="feed"><p>Cargando…</p></div>
+</main>
+<script>
+const feed = document.getElementById("feed");
+const tabs = document.getElementById("tabs");
+let data = null, current = "Todas";
+
+function ago(iso) {
+  const s = (Date.now() - new Date(iso)) / 1000;
+  if (s < 60) return "ahora";
+  if (s < 3600) return Math.floor(s / 60) + " min";
+  if (s < 86400) return Math.floor(s / 3600) + " h";
+  return new Date(iso).toLocaleDateString("es-AR", {day: "numeric", month: "short"});
+}
+function color(name) {
+  let h = 0;
+  for (const c of name) h = (h * 31 + c.charCodeAt(0)) % 360;
+  return "hsl(" + h + " 50% 38%)";
+}
+function el(tag, cls, text) {
+  const e = document.createElement(tag);
+  if (cls) e.className = cls;
+  if (text !== undefined) e.textContent = text;
+  return e;
+}
+function render() {
+  const cats = ["Todas", ...new Set(data.items.map(i => i.category))];
+  tabs.replaceChildren(...cats.map(c => {
+    const b = el("button", c === current ? "on" : "", c);
+    b.onclick = () => { current = c; render(); window.scrollTo(0, 0); };
+    return b;
+  }));
+  document.getElementById("updated").textContent =
+    "Actualizado: " + new Date(data.updated).toLocaleString("es-AR", {dateStyle: "short", timeStyle: "short"});
+  const list = data.items.filter(i => current === "Todas" || i.category === current);
+  if (!list.length) { feed.replaceChildren(el("p", "", "Sin noticias en esta categoría.")); return; }
+  feed.replaceChildren(...list.map(i => {
+    const a = el("article");
+    const av = el("div", "av", i.source.slice(0, 2).toUpperCase());
+    av.style.background = color(i.source);
+    const body = el("div", "body");
+    const top = el("div", "top");
+    top.append(el("b", "", i.source), " · " + ago(i.date) + " · " + i.category);
+    const foot = el("div", "foot");
+    const link = el("a", "", "Leer nota completa");
+    link.href = i.link; link.target = "_blank"; link.rel = "noopener noreferrer";
+    foot.append(link);
+    body.append(top, el("div", "title", i.title));
+    if (i.summary) body.append(el("div", "sum", i.summary));
+    body.append(foot);
+    a.append(av, body);
+    return a;
+  }));
+}
+async function load() {
+  try {
+    const r = await fetch("news.json?t=" + Date.now());
+    if (!r.ok) throw new Error(r.status);
+    data = await r.json();
+    render();
+  } catch (e) {
+    if (!data) feed.replaceChildren(el("p", "", "Todavía no hay noticias cargadas. Ejecutá el flujo «Actualizar noticias» en GitHub."));
+  }
+}
+load();
+setInterval(load, 10 * 60 * 1000);
+</script>
+</body>
+</html>

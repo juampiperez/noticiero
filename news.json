@@ -1,13 +1,469 @@
 {
- "updated": "2026-11-01T20:12:53.421151+00:00",
+ "updated": "2026-11-01T23:45:36.124066+00:00",
  "items": [
   {
    "category": "Deportes",
    "source": "Infobae Deportes",
-   "title": "Franco Colapinto ganó cuatro lugares en el inicio del Gran Premio de la Ciudad de México de la Fórmula 1",
-   "summary": "El piloto argentino avanzó tras la largada en el Autódromo Hermanos Rodríguez. Lewis Hamilton saldrá desde la pole. Transmiten Fox Sports y Disney+",
+   "title": "Lanús y Gimnasia de Mendoza le dan continuidad a la fecha 15 del Torneo Clausura",
+   "summary": "Al unísono, Belgrano recibe a Barracas Central. En el cierre, desde las 20:45, Lanús chocará con Gimnasia de Mendoza",
+   "link": "https://www.infobae.com/deportes/2026/11/01/continua-la-fecha-15-del-torneo-clausura-la-agenda-completa-de-los-partidos-en-la-jornada-que-se-jugara-el-superclasico/",
+   "date": "2026-11-01T23:40:12+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Infobae Deportes",
+   "title": "Con Messi como titular, el Inter Miami se enfrenta a New England Revolution por la MLS",
+   "summary": "Las Garzas visitan el estadio de la franquicia de Massachusetts a dos fechas del cierre de la temporada regular. Transmite Apple TV",
+   "link": "https://www.infobae.com/deportes/2026/11/01/el-inter-miami-de-lionel-messi-se-enfrentara-a-new-england-revolution-por-la-mls-hora-tv-y-formaciones/",
+   "date": "2026-11-01T23:38:28+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Infobae Deportes",
+   "title": "La felicidad de Colapinto tras volver a sumar puntos en México: el desafío al campeón Antonelli",
+   "summary": "El piloto argentino completó una buena actuación y finalizó octavo: “Estoy contento, se disfrutó”",
+   "link": "https://www.infobae.com/deportes/2026/11/01/la-felicidad-de-colapinto-tras-volver-a-sumar-puntos-en-mexico-el-desafio-al-campeon-antonelli/",
+   "date": "2026-11-01T23:32:35+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Olé",
+   "title": "Las chicanas de Boca: \"Cazafantasmas\" y un posteo copiando el que hizo River con la designación de los árbitros",
+   "summary": "Luego del 1-0 en el superclásico, el canal oficial en inglés del club de La Ribera festejó la victoria frente al CARP con particulares cargadas.",
+   "link": "https://www.ole.com.ar/boca-juniors/boca-juniors-river-plate-superclasico-posteos-chicana-cazafantasmas-arbitro_0_6h2CodKMWx.html",
+   "date": "2026-11-01T23:31:39+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Olé",
+   "title": "Lionel Messi en NE Revolution vs. Inter Miami, hoy EN VIVO, por la MLS: el 10 va desde el arranque",
+   "summary": "Con Leo como titular, Las Garzas se juegan una partido clave en la Conferencia y en busca de la clasificación a la Concachampions 2027. Seguilo en Olé.",
+   "link": "https://www.ole.com.ar/mls/inter-miami/lionel-messi-inter-miami-new-england-revolution-mls-concachampions_0_AdAbxVMkYq.html",
+   "date": "2026-11-01T23:29:25+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Olé",
+   "title": "Colapinto se enteró del triunfo de Boca en medio de la carrera: \"¡Me lo dijeron en la bandera roja!\"",
+   "summary": "Después de un gran GP de México, en el que llegó 8° y sumó puntos, Franco habló de la victoria en el superclásico contra River.",
+   "link": "https://www.ole.com.ar/autos/franco-colapinto-triunfo-boca-superclasico-river-carrera-mexico_0_vIERlzZGi2.html",
+   "date": "2026-11-01T23:22:08+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Infobae Deportes",
+   "title": "El llanto desconsolado de Kimi Antonelli tras consagrarse campeón de la Fórmula 1 y el inesperado gesto de Hamilton",
+   "summary": "El piloto de Mercedes no logró contener la emoción ni siquiera durante la vuelta final en el Autódromo Hermanos Rodríguez. El heptacampeón británico fue el primero en acercarse para saludarlo, antes que Verstappen, Russell y Toto Wolff. El video emotivo de la F1",
+   "link": "https://www.infobae.com/deportes/2026/11/01/el-llanto-desconsolado-de-kimi-antonelli-tras-consagrarse-campeon-de-la-formula-1-y-el-inesperado-gesto-de-hamilton/",
+   "date": "2026-11-01T23:18:45+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Olé",
+   "title": "Colapinto cortó en México una racha de cuatro fechas sin sumar en la F1",
+   "summary": "El argentino terminó octavo este domingo en el Autódromo Hermanos Rodríguez y volvió a sumar puntos tras cuatro Grandes Premios sin hacerlo. La última vez había sido en Madrid.",
+   "link": "https://www.ole.com.ar/autos/colapinto-volvio-puntos-mexico-corto-racha-fechas-sumar-f1_0_3f99G6T9JV.html",
+   "date": "2026-11-01T23:17:46+00:00"
+  },
+  {
+   "category": "Internacional",
+   "source": "Infobae Mundo",
+   "title": "La Travesía del bambú: una jornada entre machetes que une dos pueblos para construir los Barriletes Gigantes en Guatemala",
+   "summary": "Desde las 3:00 de la madrugada, artistas, agricultores y artesanos parten hacia la Costa Sur para seleccionar la materia prima de una tradición declarada Patrimonio Cultural Intangible. Lo que sucede en el bosque antes de que las estructuras vuelen es la parte que pocos conocen.",
+   "link": "https://www.infobae.com/guatemala/2026/11/01/la-travesia-del-bambu-una-jornada-entre-machetes-que-une-dos-pueblos-para-construir-los-barriletes-gigantes-en-guatemala/",
+   "date": "2026-11-01T23:11:40+00:00"
+  },
+  {
+   "category": "Internacional",
+   "source": "Infobae Mundo",
+   "title": "Aparecen con vida en aguas panameñas tres pescadores costarricenses reportados como desaparecidos",
+   "summary": "El Servicio Nacional de Fronteras ubicó a los náufragos cerca de la comarca Guna Yala, en el litoral Atlántico",
+   "link": "https://www.infobae.com/panama/2026/11/01/aparecen-con-vida-en-aguas-panamenas-tres-pescadores-costarricenses-reportados-como-desaparecidos/",
+   "date": "2026-11-01T23:09:35+00:00"
+  },
+  {
+   "category": "Internacional",
+   "source": "Infobae Mundo",
+   "title": "Régimen cubano condena a 15 años a un hombre por tráfico de drogas",
+   "summary": "La sentencia, basada en la Ley 151 de 2022, incluyó la pérdida de derechos públicos, el decomiso de bienes y la prohibición de obtener pasaporte durante el cumplimiento de la pena",
+   "link": "https://www.infobae.com/cuba/2026/11/01/regimen-cubano-condena-a-15-anos-a-un-hombre-por-trafico-de-drogas/",
+   "date": "2026-11-01T23:06:07+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Infobae Deportes",
+   "title": "Kimi Antonelli hizo historia en la Fórmula 1: se consagró como el campeón más joven de todos los tiempos",
+   "summary": "Además, el piloto de Mercedes es el primer italiano en ganar la Máxima en 73 años, desde que Alberto Ascari lo hiciera por última vez en 1953 con Ferrari",
+   "link": "https://www.infobae.com/deportes/2026/11/01/kimi-antonelli-hizo-historia-se-consagro-como-el-campeon-mas-joven-de-la-historia-de-la-formula-1/",
+   "date": "2026-11-01T23:05:22+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Infobae Deportes",
+   "title": "Franco Colapinto terminó octavo en el Gran Premio de la Ciudad de México, que ganó Max Verstappen: Kimi Antonelli se consagró campeón de la Fórmula 1",
+   "summary": "El piloto argentino volvió a la zona de puntos en el Autódromo Hermanos Rodríguez. Al italiano le alcanzó ser tercero para ser el más joven en coronarse con apenas 20 años. Alpine sumó también con Pierre Gasly, que fue décimo",
    "link": "https://www.infobae.com/deportes/2026/11/01/franco-colapinto-largara-desde-el-puesto-11-el-gran-premio-de-mexico-de-la-formula-1-todo-lo-que-hay-que-saber/",
-   "date": "2026-11-01T20:11:54+00:00"
+   "date": "2026-11-01T22:58:05+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Olé",
+   "title": "Parecía un hincha de Mercedes, pero era el futuro campeón de la Fórmula 1: la historia de Kimi Antonelli",
+   "summary": "En febrero de 2025, un tímido adolescente de 18 años se presentó ante la prensa en Londres y saludó uno por uno a los periodistas, incluido Olé . Tenía una sonrisa tímida, no había sacado el registro y lo llevaba la mamá al colegio. Menos de dos temporadas después, aquella…",
+   "link": "https://www.ole.com.ar/autos/andreakimiantonelli-mercedes-formula1-totowolff-lewishamilton-ferrari_0_KGNNlMqOyh.html",
+   "date": "2026-11-01T22:54:05+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Olé",
+   "title": "Insólito: los jugadores de Unión no pudieron ir al vestuario porque había gas pimienta",
+   "summary": "En el entretiempo del partido ante Newell's se dio una imagen particular: los futbolistas hicieron la charla técnica en el banco de suplentes porque no pudieron ir al vestuario.",
+   "link": "https://www.ole.com.ar/union/insolito-jugadores-union-gaspimienta-vestuario-newells-bancodesuplentes-charlatecnica_0_hNg9yB62RF.html",
+   "date": "2026-11-01T22:50:52+00:00"
+  },
+  {
+   "category": "Argentina",
+   "source": "Clarín",
+   "title": "Milei viaja otra vez a España y se reúne la mesa política en medio de las tensiones por la suspensión de las PASO",
+   "summary": "El Presidente llegará a Madrid por segunda vez en los últimos 15 días y la cuarta en lo que va del año. En este caso, asistirá a la Cumbre Iberoamericana de jefes y jefas de Estado y de gobierno. En la Casa Rosada creen que la reforma electoral y el Presupuesto podrían entrar…",
+   "link": "https://www.clarin.com/politica/milei-viaja-vez-espana-reune-mesa-politica-medio-tensiones-suspension-paso_0_HbxKJPENB1.html",
+   "date": "2026-11-01T22:48:28+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Olé",
+   "title": "Lanús vs. Gimnasia de Mendoza, por el Torneo Clausura, hoy EN VIVO: dónde ver y a qué hora comienza",
+   "summary": "El Granate, ya clasificado a los playoffs, recibe al Lobo mendocino que sí necesita ganar para meter un pie y medio en la siguiente instancia del Clausura. Seguilo en Olé...",
+   "link": "https://www.ole.com.ar/lanus/lanus-gimnasia-mendoza-torneo-clausura_0_yb5onNtZ5G.html",
+   "date": "2026-11-01T22:47:11+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Olé",
+   "title": "Así quedó la lista de campeones de la F1 tras el título de Kimi Antonelli en 2026",
+   "summary": "En el GP de México, el joven italiano entró al selecto grupo de campeones del mundo, que ahora tiene 36 pilotos en sus 77 temporadas.",
+   "link": "https://www.ole.com.ar/autos/kimi-antonelli-campeon-formula-1-campeones-hamilton-shcumacher-fangio-verstappen_0_JeUooSDMpW.html",
+   "date": "2026-11-01T22:45:59+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Infobae Deportes",
+   "title": "Cuándo volverá a correr Franco Colapinto en la Fórmula 1 tras su gran actuación en el GP de México",
+   "summary": "El piloto argentino finalizó en la octava posición y su próxima parada es en el cirtcuito de Interlagos, en Brasil",
+   "link": "https://www.infobae.com/deportes/2026/11/01/cuando-volvera-a-correr-franco-colapinto-en-la-formula-1-tras-su-gran-actuacion-en-el-gp-de-mexico/",
+   "date": "2026-11-01T22:45:31+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Olé",
+   "title": "Así quedaron las posiciones de la Fórmula 1 tras el GP de México",
+   "summary": "Con Verstappen como ganador en México y Antonelli consagrándose campeón tras subir al podio, así quedaron las tablas de la Máxima.",
+   "link": "https://www.ole.com.ar/autos/quedaron-posiciones-formula-1-gp-mexico_0_2mYzBlryQF.html",
+   "date": "2026-11-01T22:44:55+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Olé",
+   "title": "Análisis: las fallas de River en la jugada de la roja a Martínez Quarta",
+   "summary": "El defensor cometió un grave error que le costó la expulsión pero en la previa a esa acción hubo una serie de equivocaciones que se originó en una pérdida propia en campo de Boca.",
+   "link": "https://www.ole.com.ar/tactica/boca-river-analisis-error-roja-martinez-quarta_0_ejYJ8j3WUv.html",
+   "date": "2026-11-01T22:44:18+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Infobae Deportes",
+   "title": "Tras la caída ante Boca: qué necesita River Plate para clasificarse a la Copa Libertadores 2027",
+   "summary": "Luego de perder 1-0 en el Superclásico con un gol de Lautaro Di Lollo, el Millonario no tiene margen de error",
+   "link": "https://www.infobae.com/deportes/2026/11/01/tras-la-caida-ante-boca-que-necesita-river-plate-para-clasificarse-a-la-copa-libertadores-2027/",
+   "date": "2026-11-01T22:38:07+00:00"
+  },
+  {
+   "category": "Argentina",
+   "source": "Clarín",
+   "title": "La agenda de Milei antes de la llegada del Papa: participará de eventos de la religión judía y volverá a viajar a España",
+   "summary": "El Presidente recibirá en la Casa Rosada a un rabino enviado por Donald Trump para tratar \"temas de antisemitismo\". El martes partirá a tierra española acompañado de su hermana y el canciller Quirno.",
+   "link": "https://www.clarin.com/politica/agenda-milei-llegada-papa-participara-eventos-religion-judia-volvera-viajar-espana_0_znBy8z8YWM.html",
+   "date": "2026-11-01T22:24:39+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Infobae Deportes",
+   "title": "“No tienen vergüenza ni límites”: la fuerte crítica de Stéfano Di Carlo tras las polémicas en el triunfo de Boca ante River",
+   "summary": "El titular de la institución millonaria cuestionó la actuación de Nicolás Ramírez y la intervención del VAR en el Superclásico",
+   "link": "https://www.infobae.com/deportes/2026/11/01/no-tienen-verguenza-ni-limites-la-fuerte-critica-de-stefano-di-carlo-tras-las-polemicas-en-el-triunfo-de-boca-ante-river/",
+   "date": "2026-11-01T22:23:50+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Infobae Deportes",
+   "title": "9 frases de Arruabarrena tras la victoria de Boca ante River: del “merecimos el triunfo” al “todavía no ganamos nada”",
+   "summary": "El DT analizó en conferencia de prensa el partido y habló sobre los próximos compromisos",
+   "link": "https://www.infobae.com/deportes/2026/11/01/9-frases-de-arruabarrena-tras-la-victoria-de-boca-ante-river-del-merecimos-el-triunfo-al-todavia-no-ganamos-nada/",
+   "date": "2026-11-01T22:23:12+00:00"
+  },
+  {
+   "category": "Economía",
+   "source": "Clarín Economía",
+   "title": "Mientras el FMI espera reformas antes de diciembre, el Gobierno afronta un pago de US$ 800 millones",
+   "summary": "Se trata de un pago de intereses que vence esta semana. El Tesoro tendría que comprarle dólares al BCRA para cancelarlo. El Fondo aprobaría un giro de US$ 900 millones en diciembre, pero antes exige medidas.",
+   "link": "https://www.clarin.com/economia/fmi-espera-reformas-diciembre-gobierno-afronta-pago-us-800-millones_0_PB5H35ksOS.html",
+   "date": "2026-11-01T22:22:27+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Infobae Deportes",
+   "title": "Silvio Trucco, el árbitro del VAR que condicionó el Superclásico: ignoró un penal evidente para River y aplicó criterios diferentes ante jugadas similares",
+   "summary": "El juez quedó en el centro de la polémica por sus omisiones en el partido que se disputó en la Bombonera. Su actuación volvió a generar cuestionamientos sobre el arbitraje y la estructura de la AFA que conduce Claudio “Chiqui” Tapia.",
+   "link": "https://www.infobae.com/deportes/2026/11/01/silvio-trucco-el-arbitro-del-var-que-condiciono-el-superclasico-ignoro-un-penal-evidente-para-river-y-aplico-criterios-diferentes-ante-jugadas-similares/",
+   "date": "2026-11-01T22:10:25+00:00"
+  },
+  {
+   "category": "Economía",
+   "source": "Infobae Economía",
+   "title": "Cyber Monday 2026: a qué hora empieza, qué ofertas habrá y las categorías con descuentos más altos",
+   "summary": "Entre descuentos, financiamiento y beneficios logísticos, el evento de ecommerce buscará captar a los consumidores en un contexto de mayor competencia con sitios del exterior",
+   "link": "https://www.infobae.com/economia/2026/11/01/cyber-monday-2026-a-que-hora-empieza-que-ofertas-habra-y-las-categorias-con-descuentos-mas-altos/",
+   "date": "2026-11-01T22:02:44+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Clarín Deportes",
+   "title": "Kimi Antonelli, el nene que no quería bajarse del kart y hoy es el campeón más joven de la historia de la Fórmula 1",
+   "summary": "El italiano de 20 años se consagró en el Gran Premio de Ciudad de México al llegar tercero.. Tenía apenas un año cuando se subió por primera vez a un kart y no quería bajarse. Toto Wolff apostó por él como reemplazante de Lewis Hamilton en Mercedes e hizo un pleno.",
+   "link": "https://www.clarin.com/deportes/kimi-antonelli-nene-queria-bajarse-kart-hoy-campeon-joven-historia-formula-1_0_3zvuD0y4w3.html",
+   "date": "2026-11-01T22:02:00+00:00"
+  },
+  {
+   "category": "Argentina",
+   "source": "La Nación",
+   "title": "El ministro Mahiques impulsa el ascenso de un juez y se podría abrir una nueva vacante en Comodoro Py",
+   "summary": "El pliego de Daniel Rafecas inició su camino hacia el Senado; podría convertirse en camarista de la Casación porteña y dejar un hueco estratégico en los tribunales de Retiro; las causas que tiene bajo su órbita",
+   "link": "https://www.lanacion.com.ar/politica/el-ministro-mahiques-impulsa-el-ascenso-de-un-juez-y-se-podria-abrir-una-nueva-vacante-en-comodoro-nid01112026/",
+   "date": "2026-11-01T22:01:34+00:00"
+  },
+  {
+   "category": "Argentina",
+   "source": "Clarín",
+   "title": "Trece gobernadores para ahuyentar las brujas, la cláusula Ritondo por las PASO y una inédita cumbre de Kicillof en Jujuy",
+   "summary": "El oficialismo dispone de apenas dos semanas para negociar el Presupuesto 2027 en un Congreso con plazos acotados por el receso ante la visita del Papa. Mauricio Macri advirtió sobre la falta de coordinación política del Gobierno y las dificultades de la economía para…",
+   "link": "https://www.clarin.com/politica/trece-gobernadores-ahuyentar-brujas-clausula-ritondo-paso-inedita-cumbre-kicillof-jujuy_0_b9EW2H6r0L.html",
+   "date": "2026-11-01T22:00:20+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Infobae Deportes",
+   "title": "Nicolás Ramírez expulsó a Martínez Quarta a los 8 minutos del Superclásico y desató una ola de críticas: “Son unos ladrones”",
+   "summary": "Rodolfo D’Onofrio, ex presidente de River, encabezó los reclamos con dos mensajes en la red social X. El defensor vio la tarjeta roja en el inicio del duelo ante Boca",
+   "link": "https://www.infobae.com/deportes/2026/11/01/nicolas-ramirez-expulso-a-martinez-quarta-a-los-8-minutos-del-superclasico-y-desato-una-ola-de-criticas-son-unos-ladrones/",
+   "date": "2026-11-01T21:56:27+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Clarín Deportes",
+   "title": "Leandro Paredes, el hombre de la sonrisa indisimulable que caminó por la cornisa pero festejó otra vez en el Superclásico: \"Fuimos inteligentes\"",
+   "summary": "Todo River reclamó por una segunda amarilla al capitán de Boca, que se mantuvo en cancha y fue el conductor de su equipo. Está invicto en cinco partidos en su carrera contra el clásico rival y ganó su tercero consecutivo.",
+   "link": "https://www.clarin.com/deportes/leandro-paredes-hombre-sonrisa-indisimulable-camino-cornisa-festejo-vez-superclasico-inteligentes_0_vWQyDjFqKX.html",
+   "date": "2026-11-01T21:55:33+00:00"
+  },
+  {
+   "category": "Argentina",
+   "source": "La Nación",
+   "title": "Javier Milei opinó sobre el tenso cruce entre Santiago Maratea y la China Ansa: “Una emboscada por no ser kuka”",
+   "summary": "El Presidente se expresó en defensa del influencer, quien mantuvo un acalorado intercambio con la periodista tras una pregunta sobre sus colectas",
+   "link": "https://www.lanacion.com.ar/politica/javier-milei-opino-sobre-el-tenso-cruce-entre-santiago-maratea-y-la-china-ansa-una-emboscada-por-no-nid01112026/",
+   "date": "2026-11-01T21:54:31+00:00"
+  },
+  {
+   "category": "Internacional",
+   "source": "Infobae Mundo",
+   "title": "Cientos de familias visitan los cementerios de Guatemala para recordar a sus fallecidos en el Día de Todos los Santos",
+   "summary": "Desde la víspera, cientos de personas limpiaron nichos, pintaron sepulturas y dejaron flores, velas, fotografías y ofrendas en una tradición vinculada a la conmemoración cristiana del 1 de noviembre en todo el país",
+   "link": "https://www.infobae.com/guatemala/2026/11/01/cientos-de-familias-visitan-los-cementerios-de-guatemala-para-recordar-a-sus-fallecidos-en-el-dia-de-todos-los-santos/",
+   "date": "2026-11-01T21:54:17+00:00"
+  },
+  {
+   "category": "Internacional",
+   "source": "Infobae Mundo",
+   "title": "República Dominicana envía equipos para la fuerza internacional desplegada en Haití",
+   "summary": "La iniciativa, planteada por Luis Abinader ante jóvenes de San Pedro de Macorís, busca evitar que los residentes jóvenes migren a otras localidades en busca de oportunidades laborales de trabajo",
+   "link": "https://www.infobae.com/republica-dominicana/2026/11/01/republica-dominicana-envia-equipos-para-la-fuerza-internacional-desplegada-en-haiti/",
+   "date": "2026-11-01T21:52:13+00:00"
+  },
+  {
+   "category": "Economía",
+   "source": "Infobae Economía",
+   "title": "El mercado de motos encadena otro mes de fuerte crecimiento mientras los autos registran su mayor caída interanual del año",
+   "summary": "Con casi 80.000 unidades registradas en octubre y un acumulado anual del 39% por encima de 2025, el mercado de motovehículos contrasta con el de los autos, que acumula una baja de casi 13% en lo que va del año",
+   "link": "https://www.infobae.com/economia/2026/11/01/el-mercado-de-motos-encadena-otro-mes-de-fuerte-crecimiento-mientras-los-autos-registran-su-mayor-caida-interanual-del-ano/",
+   "date": "2026-11-01T21:38:24+00:00"
+  },
+  {
+   "category": "Argentina",
+   "source": "Clarín",
+   "title": "Cambios en la Magistratura: pierde presencia Cristina y gana La Libertad Avanza",
+   "summary": "A fines de noviembre vencen los mandatos de los ocho consejeros que le corresponden a Diputados y el Senado.",
+   "link": "https://www.clarin.com/politica/consejo-magistratura-peronismo-enfrenta-lla-propia-interna-asientos-congreso_0_f7tWiQrquU.html",
+   "date": "2026-11-01T21:35:56+00:00"
+  },
+  {
+   "category": "Argentina",
+   "source": "La Nación",
+   "title": "La Libertad Avanza busca ganar peso en la Justicia porteña: competirá en la elección de abogados del Consejo de la Magistratura",
+   "summary": "Diego Carbone y Roxana Kahale encabezan la lista para los comicios del 17 de noviembre; el antecedente desalentador de la renovación en el organismo nacional",
+   "link": "https://www.lanacion.com.ar/politica/la-libertad-avanza-busca-ganar-peso-en-la-justicia-portena-competira-en-la-eleccion-de-abogados-del-nid01112026/",
+   "date": "2026-11-01T21:30:48+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Clarín Deportes",
+   "title": "Boca ganó en un Superclásico con escándalo: River terminó con 9 jugadores y reclamó por dos penales",
+   "summary": "La temprana roja a Martínez Quarta condicionó el desarrollo de un partido que se definió por el cabezazo de Di Lollo, en el primer tiempo. Montiel también se fue antes del final a los vestuarios y despotricó contra el árbitro Nicolás Ramírez y el VAR Trucco. Mirá el resumen.",
+   "link": "https://www.clarin.com/deportes/boca-gano-superclasico-escandalo-river-termino-9-jugadores-reclamo-penales_0_aysSWwqXfF.html",
+   "date": "2026-11-01T21:30:40+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Clarín Deportes",
+   "title": "Stefano Di Carlo explotó tras la derrota de River ante Boca: “Cuando los errores favorecen siempre a los mismos dejan de ser errores”",
+   "summary": "El presidente de del club de Núñez publicó un durísimo mensaje después del 1-0 en la Bombonera y cuestionó los fallos arbitrales. Antes, Rodolfo D'Onofrio había acusado de “ladrones” a los responsables del arbitraje por la expulsión de Martínez Quarta.",
+   "link": "https://www.clarin.com/deportes/stefano-di-carlo-exploto-derrota-river-boca-errores-favorecen-siempre-mismos-dejan-errores_0_As1534of5R.html",
+   "date": "2026-11-01T21:22:32+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Clarín Deportes",
+   "title": "El 1x1 de Boca en el Superclásico contra River: el despliegue de Delgado, la conducción de Paredes y la cabeza imbatible de Di Lollo",
+   "summary": "El equipo de Arruabarrena asumió sin problemas la ventaja que le dio la expulsión de Martínez Quarta. Los puntajes de Clarín para los jugadores del Xeneize.",
+   "link": "https://www.clarin.com/deportes/1x1-boca-superclasico-river-despliegue-delgado-conduccion-paredes-cabeza-imbatible-di-lollo_0_2vFvcY9AAb.html",
+   "date": "2026-11-01T21:19:35+00:00"
+  },
+  {
+   "category": "Internacional",
+   "source": "Infobae Mundo",
+   "title": "Denuncian amenazas de cárcel contra colaboradores de un medio comunitario en Santa Clara",
+   "summary": "El observatorio señaló que las advertencias de cárcel, procesos y despidos habrían provocado que varias personas dejaran de escribir o renunciaran a sumarse al boletín comunitario de la ciudad cubana",
+   "link": "https://www.infobae.com/cuba/2026/11/01/denuncian-amenazas-de-carcel-contra-colaboradores-de-un-medio-comunitario-en-santa-clara/",
+   "date": "2026-11-01T21:08:59+00:00"
+  },
+  {
+   "category": "Internacional",
+   "source": "Infobae Mundo",
+   "title": "Honduras entrega a El Salvador a un hombre de 79 años buscado desde 2007",
+   "summary": "La alerta de Interpol fue solicitada por un juzgado salvadoreño el 2 de octubre de aquel año, por el asesinato de Víctor Manuel Osorio Gutiérrez y activó cooperación regional para su localización.",
+   "link": "https://www.infobae.com/honduras/2026/11/01/honduras-entrega-a-el-salvador-a-un-hombre-de-79-anos-buscado-desde-2007/",
+   "date": "2026-11-01T21:06:10+00:00"
+  },
+  {
+   "category": "Internacional",
+   "source": "Infobae Mundo",
+   "title": "Familias salvadoreñas llegan a los cementerios para rendir homenaje a sus difuntos con flores",
+   "summary": "",
+   "link": "https://www.infobae.com/el-salvador/2026/11/01/familias-salvadorenas-llegan-a-los-cementerios-para-rendir-homenaje-a-sus-difuntos-con-flores/",
+   "date": "2026-11-01T21:05:55+00:00"
+  },
+  {
+   "category": "Internacional",
+   "source": "Infobae Mundo",
+   "title": "Gobierno dominicano estudia un proyecto de zona franca para generar empleo local a jóvenes",
+   "summary": "La propuesta, planteada por el presidente Luis Abinader en San Pedro de Macorís, permanece en estudio y no define empresas participantes, inversión, calendario ni puestos laborales previstos para las comunidades cercanas",
+   "link": "https://www.infobae.com/republica-dominicana/2026/11/01/gobierno-dominicano-estudia-un-proyecto-de-zona-franca-para-generar-empleo-local-a-jovenes/",
+   "date": "2026-11-01T21:03:38+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Clarín Deportes",
+   "title": "El 1x1 de River en el Superclásico ante Boca: Santiago Beltrán el mejor y muchos desaprobados que dan preocupación a Ponzio",
+   "summary": "Si bien jugó gran parte del partido con 10 por la temprana expulsión de Martínez Quarta, no tuvo un rendimiento parejo. Todas las puntuaciones de Clarín.",
+   "link": "https://www.clarin.com/deportes/1x1-river-superclasico-boca-santiago-beltran-mejor-desaprobados-dan-preocupacion-ponzio_0_lT9L6B3akz.html",
+   "date": "2026-11-01T21:02:50+00:00"
+  },
+  {
+   "category": "Tecnología",
+   "source": "Xataka",
+   "title": "Unos investigadores han decidido ponerle patas a un teléfono móvil y el resultado ha sido un robot que camina",
+   "summary": "En muchos cajones hay móviles que no volveremos a utilizar como teléfonos. Los guardamos después de estrenar otro, quizá por si algún día hacen falta, y ahí se quedan aunque sigan teniendo una cámara , un procesador, sensores de movimiento y conexión inalámbrica. Nos hemos…",
+   "link": "https://www.xataka.com/robotica-e-ia/unos-investigadores-han-decidido-ponerle-patas-a-telefono-movil-resultado-ha-sido-robot-que-camina",
+   "date": "2026-11-01T21:01:27+00:00"
+  },
+  {
+   "category": "Argentina",
+   "source": "La Nación",
+   "title": "Mariel Fernández: “El gobernador Kicillof se reúne con intendentes del MDF, yo quisiera que se reúna con todos”",
+   "summary": "La jefa comunal de Moreno integra la “liga” de mandatarios municipales peronistas y se anota en la competencia para 2027; sostiene que un gobierno justicialista debería indultar a Cristina Kirchner",
+   "link": "https://www.lanacion.com.ar/politica/mariel-fernandez-el-gobernador-se-reune-con-intendentes-del-mdf-yo-quisiera-que-se-reuna-con-todos-nid01112026/",
+   "date": "2026-11-01T20:58:33+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Clarín Deportes",
+   "title": "Nicolás Ramírez, el árbitro que quedó en el centro de las polémicas del Superclásico: de las advertencias de River al furioso cruce con Ponzio",
+   "summary": "El DT había expresado su preocupación por los arbitrajes antes de visitar la Bombonera. Otamendi también había cuestionado a los jueces. El VAR intervino en la expulsión de Martínez Quarta, Ramírez perdonó a Paredes y la roja a Montiel desató la bronca del banco visitante.",
+   "link": "https://www.clarin.com/deportes/nicolas-ramirez-arbitro-quedo-centro-polemicas-superclasico-advertencias-river-furioso-cruce-ponzio_0_VMHfggBaZg.html",
+   "date": "2026-11-01T20:58:04+00:00"
+  },
+  {
+   "category": "Argentina",
+   "source": "Clarín",
+   "title": "Caso Cuadernos: a un año del inicio del juicio, todas las pruebas que para la fiscalía avalan la acusación contra Cristina",
+   "summary": "El TOF 7 ya escuchó a un centenar de testigos, y faltan otros 200. Se corroboró la autenticidad de los cuadernos, las confesiones de los arrepentidos y los cruces e impactos telefónicos que coinciden con las escrituras del chofer Centeno.",
+   "link": "https://www.clarin.com/politica/caso-cuadernos-ano-inicio-juicio-todas-pruebas-fiscalia-avalan-acusacion-cristina_0_9cp9dCD1RE.html",
+   "date": "2026-11-01T20:56:28+00:00"
+  },
+  {
+   "category": "Economía",
+   "source": "Clarín Economía",
+   "title": "Cyber Monday: cuándo es, cuántas empresas participan y qué ofertas habrá para comprar desde electrónicos hasta autos",
+   "summary": "La edición 2025 tuvo un descuento promedio de 30% y la mitad de las compras se realizó con envío gratuito. Este año, habrá cerca de 15.000 'MegaOfertas' en el sitio oficial del evento. Las marcas buscan atraer a un consumidor más selectivo por la IA y la competencia con Shein…",
+   "link": "https://www.clarin.com/economia/cyber-monday-cuantas-empresas-participan-ofertas-comprar-electronicos-autos_0_3t4Sw6r1uq.html",
+   "date": "2026-11-01T20:50:39+00:00"
+  },
+  {
+   "category": "Argentina",
+   "source": "Clarín",
+   "title": "Patricia Bullrich avisa: en marzo o abril define su candidatura presidencial",
+   "summary": "En alerta por los errores del Gobierno, la senadora rearma a su tropa y acelera los contactos políticos. El factor Alberto Fernández y la promesa de que no hará \"nada irresponsable\".",
+   "link": "https://www.clarin.com/politica/patoneta-empezo-moverse-bullrich-toma-distancia-arma-equipo-alternativa-milei-repunta_0_yBKMBxn8vh.html",
+   "date": "2026-11-01T20:38:33+00:00"
+  },
+  {
+   "category": "Argentina",
+   "source": "La Nación",
+   "title": "Con 7800 voluntarios, 13.000 policías y un costo de 10 millones de dólares, Córdoba se prepara para recibir a León XIV",
+   "summary": "Se desplegarán 7000 metros cuadrados de pantallas en el predio de Fadea, donde se hará la misa central; la ciudad espera la presencia de 1,2 millón de personas",
+   "link": "https://www.lanacion.com.ar/politica/con-7800-voluntarios-13000-policias-y-un-costo-de-10-millones-de-dolares-cordoba-se-prepara-para-nid01112026/",
+   "date": "2026-11-01T20:37:08+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Clarín Deportes",
+   "title": "Gonzalo Montiel recibió otra polémica roja en el Superclásico y provocó con un gesto a los hinchas de Boca: ¿a qué partidos recordó?",
+   "summary": "El lateral derecho le aplicó una violenta patada a Lautaro Blanco y el árbitro Nicolás Ramírez no dudó, pese a las protestas. Mirá el video.",
+   "link": "https://www.clarin.com/deportes/gonzalo-montiel-recibio-polemica-roja-superclasico-provoco-gesto-hinchas-boca-partidos-recordo_0_SRqryeGh2b.html",
+   "date": "2026-11-01T20:29:47+00:00"
+  },
+  {
+   "category": "Economía",
+   "source": "Infobae Economía",
+   "title": "Brasil ya golpeó a los activos argentinos y EEUU asoma como el próximo test para el mercado local",
+   "summary": "El impacto político externo encuentra a la Argentina con vulnerabilidades propias: riesgo país elevado, reservas todavía limitadas, presión sobre la competitividad y una actividad que pierde dinamismo",
+   "link": "https://www.infobae.com/economia/2026/11/01/brasil-ya-golpeo-a-los-activos-argentinos-y-eeuu-asoma-como-el-proximo-test-para-el-mercado-local/",
+   "date": "2026-11-01T20:20:20+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Clarín Deportes",
+   "title": "Di Lollo es el héroe del Superclásico, Martínez Quarta y el VAR los villanos: las redes sociales estallaron con los memes por el triunfo de Boca",
+   "summary": "El defensor xeneize marcó el 1 a 0 en la Bombonera. El zaguero millonario, apuntado por los hinchas de River, y los gestos de Montiel a la tribuna local.",
+   "link": "https://www.clarin.com/deportes/di-lollo-heroe-superclasico-martinez-quarta-var-villanos-redes-sociales-estallaron-memes-triunfo-boca_0_E0uh7dxU28.html",
+   "date": "2026-11-01T20:19:29+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Clarín Deportes",
+   "title": "Boca le ganó a River el Superclásico y repitió una racha triunfal después de 35 años: ¿a cuántos partidos quedó en el historial?",
+   "summary": "El 1-0 por la fecha 15 del Torneo Clausura fue gracias al cabezazo de Lautaro Di Lollo. Además, el mes de noviembre era el más parejo y ahora el Xeneize lo desniveló.",
+   "link": "https://www.clarin.com/deportes/boca-gano-river-bombonera-amplio-ventaja-historial-superclasico-partidos-diferencia-quedo_0_gjbA1YHVsW.html",
+   "date": "2026-11-01T20:17:49+00:00"
   },
   {
    "category": "Internacional",
@@ -18,28 +474,12 @@
    "date": "2026-11-01T20:07:39+00:00"
   },
   {
-   "category": "Deportes",
-   "source": "Infobae Deportes",
-   "title": "En un Superclásico cargado de polémicas, Boca Juniors derrotó 1 a 0 a River Plate, que sufrió dos expulsiones cuestionadas",
-   "summary": "El conjunto xeneize se impuso por 1 a 0 con gol de Lautaro Di Lollo. El árbitro Nicolás Ramírez expulsó a Martínez Quarta a los 8 minutos de partido y a Gonzalo Montiel en el segundo tiempo",
-   "link": "https://www.infobae.com/deportes/2026/11/01/boca-juniors-y-river-animaran-una-atrapante-edicion-del-superclasico-del-futbol-argentino-en-la-bombonera-hora-tv-y-formaciones/",
-   "date": "2026-11-01T20:06:49+00:00"
-  },
-  {
    "category": "Tecnología",
    "source": "Xataka",
    "title": "La Luna tendrá su propio superordenador: procesar datos en la Tierra no es una opción",
    "summary": "La mayoría de misiones no tripuladas comparten un mismo hándicap: las muestras o los datos deben enviarse a la Tierra para su análisis. Esto es algo que se está solucionando poco a poco. Ya existen rovers dotados con laboratorios internos que realizan todo tipo de pruebas in…",
    "link": "https://www.xataka.com/espacio/luna-tendra-su-propio-superordenador-procesar-datos-tierra-no-opcion",
    "date": "2026-11-01T20:01:27+00:00"
-  },
-  {
-   "category": "Deportes",
-   "source": "Infobae Deportes",
-   "title": "El áspero cruce entre Marcos Acuña y Leandro Paredes en el Superclásico, que terminó con los dos campeones del mundo amonestados",
-   "summary": "El defensor de River Plate desplazó al capitán de Boca Juniors durante un clásico intenso y repitió la tensión registrada durante el duelo entre ambos disputado en abril",
-   "link": "https://www.infobae.com/deportes/2026/11/01/el-aspero-cruce-entre-marcos-acuna-y-leandro-paredes-en-el-superclasico-que-termino-con-los-dos-campeones-del-mundo-amonestados/",
-   "date": "2026-11-01T19:56:14+00:00"
   },
   {
    "category": "Internacional",
@@ -58,84 +498,12 @@
    "date": "2026-11-01T19:51:25+00:00"
   },
   {
-   "category": "Deportes",
-   "source": "Infobae Deportes",
-   "title": "Nicolás Ramírez expulsó a Martínez Quarta a los 8 minutos del Superclásico y desató una ola de críticas: “Son unos ladrones”",
-   "summary": "Rodolfo D’Onofrio, ex presidente de River, encabezó los reclamos con dos mensajes en la red social X. El defensor vio la tarjeta roja en el inicio del duelo ante Boca",
-   "link": "https://www.infobae.com/deportes/2026/11/01/nicolas-ramirez-expulso-a-martinez-quarta-a-los-8-minutos-del-superclasico-y-desato-una-ola-de-criticas-son-unos-ladrones/",
-   "date": "2026-11-01T19:49:59+00:00"
-  },
-  {
-   "category": "Internacional",
-   "source": "Infobae Mundo",
-   "title": "Empresa privada respalda despidos de funcionarios de Nasry Asfura y exige resultados en Honduras",
-   "summary": "El representante empresarial propuso una carrera pública basada en preparación, experiencia, capacidad y rendimiento, para evitar que los nombramientos respondan a recompensas partidarias tras cada relevo de Gobierno en Honduras",
-   "link": "https://www.infobae.com/honduras/2026/11/01/empresa-privada-respalda-despidos-de-funcionarios-de-nasry-asfura-y-exige-resultados-en-honduras/",
-   "date": "2026-11-01T19:49:47+00:00"
-  },
-  {
-   "category": "Internacional",
-   "source": "Infobae Mundo",
-   "title": "Corales costarricenses registran blanqueamiento por las altas temperaturas vinculadas a El Niño",
-   "summary": "El aumento de la temperatura del agua puede afectar la relación entre los corales y las zooxantelas, algas que les suministran más del 90% de sus nutrientes; si el calor persiste, los organismos pierden coloración y se debilitan.",
-   "link": "https://www.infobae.com/costa-rica/2026/11/01/corales-costarricenses-registran-blanqueamiento-por-las-altas-temperaturas-vinculadas-a-el-nino/",
-   "date": "2026-11-01T19:46:05+00:00"
-  },
-  {
-   "category": "Internacional",
-   "source": "Infobae Mundo",
-   "title": "Encuentran a salvadoreño ahogado en la costa occidental; presuntamente había regresado al país hace unos días",
-   "summary": "Las autoridades identificaron a la víctima como Santos Montano Guerrero, de 52 años, tras recibir el aviso de personas que lo observaron cerca de la costa en el cantón Metalío, Acajutla",
-   "link": "https://www.infobae.com/el-salvador/2026/11/01/encuentran-a-salvadoreno-ahogado-en-la-costa-occidental-presuntamente-habia-regresado-al-pais-hace-unos-dias/",
-   "date": "2026-11-01T19:43:16+00:00"
-  },
-  {
-   "category": "Internacional",
-   "source": "Infobae Mundo",
-   "title": "Policía dominicana abatió a tiros a un implicado en el secuestro y tortura de un adolescente",
-   "summary": "Wilfredo Antonio Rodríguez Henríquez, de 34 años, recibió disparos durante un presunto enfrentamiento mientras agentes investigaban su relación con el caso. El sujeto falleció tras recibir atención médica, según la versión oficial",
-   "link": "https://www.infobae.com/republica-dominicana/2026/11/01/policia-dominicana-abatio-a-tiros-a-un-implicado-en-el-secuestro-y-tortura-de-un-adolescente/",
-   "date": "2026-11-01T19:43:13+00:00"
-  },
-  {
-   "category": "Internacional",
-   "source": "Infobae Mundo",
-   "title": "¿Cuánto territorio y por cuántos años podrá operar Cobre Panamá? Las preguntas que inquietan al mercado financiero",
-   "summary": "Analistas de UBS, CIBC y otros bancos internacionales cuestionaron a First Quantum sobre las restricciones que podría imponer el Gobierno. La minera reconoció que los límites de una eventual explotación deberán definirse mediante negociaciones.",
-   "link": "https://www.infobae.com/panama/2026/11/01/cuanto-territorio-y-por-cuantos-anos-podra-operar-cobre-panama-las-preguntas-que-inquietan-al-mercado-financiero/",
-   "date": "2026-11-01T19:42:34+00:00"
-  },
-  {
-   "category": "Deportes",
-   "source": "Olé",
-   "title": "Video: el gesto de Martínez Quarta a la hincha de Boca luego de ser expulsado",
-   "summary": "El Chino vio la roja a los 10 minutos del primer tiempo y, cuando se dirigía camino al vestuario, recordó la final de la Copa Libertadores en 2018.",
-   "link": "https://www.ole.com.ar/river-plate/martinez-quarta-expulsion-boca-river-superclasico-gesto_0_5g46JIcRrW.html",
-   "date": "2026-11-01T19:36:04+00:00"
-  },
-  {
-   "category": "Deportes",
-   "source": "Clarín Deportes",
-   "title": "Paredes y Acuña tuvieron otro encontronazo de campeones del mundo: los dos recibieron la amarilla en un Superclásico caliente",
-   "summary": "El capitán de Boca le tiró lejos la pelota y el lateral de River lo empujó. El recuerdo de su cruce en el anterior duelo cumbre del fútbol argentino. Mirá el video.",
-   "link": "https://www.clarin.com/deportes/paredes-acuna-encontronazo-campeones-mundo-recibieron-amarilla-superclasico-caliente_0_pFyOZLP6mo.html",
-   "date": "2026-11-01T19:20:38+00:00"
-  },
-  {
-   "category": "Deportes",
-   "source": "Infobae Deportes",
-   "title": "Asistencia de Villa y cabezazo letal de Di Lollo: así abrió el marcador Boca Juniors ante River Plate",
-   "summary": "El colombiano ejecutó un perfecto tiro de esquina y el defensor superó a Rivero en el área y rompió el cero en el Superclásico en La Bombonera",
-   "link": "https://www.infobae.com/deportes/2026/11/01/asistencia-de-villa-y-cabezazo-letal-de-di-lollo-asi-abrio-el-marcador-boca-juniors-ante-river-plate/",
-   "date": "2026-11-01T19:13:26+00:00"
-  },
-  {
-   "category": "Deportes",
-   "source": "Olé",
-   "title": "Tras un nuevo cambio, así quedó la parrilla definitiva del GP de México de Fórmula 1",
-   "summary": "Lawson saldrá desde boxes después de que Racing Bulls modificara su auto tras la descalificación de la qualy. Franco mantiene su 11° lugar, con Gasly noveno y Hamilton en la pole.",
-   "link": "https://www.ole.com.ar/autos/francocolapinto-granpremiodemexico-formula1-liamlawson-racingbulls-parquecerrado-fia-lewishamilton-parrilla_0_ORtBwedtjH.html",
-   "date": "2026-11-01T19:07:00+00:00"
+   "category": "Argentina",
+   "source": "Clarín",
+   "title": "\"Una emboscada por no ser kuka\": Milei se metió en la polémica por la pelea entre la China Ansa y Santiago Maratea",
+   "summary": "El Presidente respaldó a Maratea luego del tenso cruce generado por las consultas sobre sus colectas solidarias. Y aprovechó para renovar sus críticas contra la prensa.",
+   "link": "https://www.clarin.com/politica/emboscada-kuka-milei-metio-polemica-pelea-china-ansa-santiago-maratea_0_nLN5S9L2Yx.html",
+   "date": "2026-11-01T19:45:51+00:00"
   },
   {
    "category": "Tecnología",
@@ -146,108 +514,12 @@
    "date": "2026-11-01T19:01:27+00:00"
   },
   {
-   "category": "Deportes",
-   "source": "Olé",
-   "title": "¿Qué fue la explicación en inglés que usó Ramírez en la expulsión de Martínez Quarta?",
-   "summary": "El juez del Superclásico recurrió a una sigla técnica reglamentaria para fundamentar la tarjeta roja directa al zaguero de River tras la revisión en el VAR.",
-   "link": "https://www.ole.com.ar/futbol-primera/boca-river-roja-martinez-quarta-explicacion-arbitro-ramirez-ingles_0_NRMLrxw4dw.html",
-   "date": "2026-11-01T18:58:51+00:00"
-  },
-  {
-   "category": "Deportes",
-   "source": "Clarín Deportes",
-   "title": "Real Madrid goleó a Racing de Santander con un gol de Mbappé, pero en China no se vio el partido por el escándalo con Mao Zedong",
-   "summary": "El equipo de José Mourinho ganó 3-0 como visitante y sumó su sexta victoria consecutiva, con tantos del francés, Jude Bellingham y Yan Diomande. La televisión estatal china cumplió su amenaza de suspender las transmisiones de LaLiga por las declaraciones de Mbappé sobre el…",
-   "link": "https://www.clarin.com/deportes/real-madrid-goleo-racing-santander-gol-mbappe-china-vio-partido-escandalo-mao-zedong_0_My0k5LsRbG.html",
-   "date": "2026-11-01T18:56:32+00:00"
-  },
-  {
-   "category": "Deportes",
-   "source": "Olé",
-   "title": "Todos los goles de cabeza de Di Lollo, el verdugo de River que abrió el Súper",
-   "summary": "El central de Boca anotó el 1-0 de su equipo, como hace unos días en el Maracaná. El detalle uno a uno de sus gritos con la azul y oro.",
-   "link": "https://www.ole.com.ar/boca-juniors/sebastianvilla-lautarodilollo-boca-superclasico-vascoarruabarrena_0_gGz5vVmQuF.html",
-   "date": "2026-11-01T18:56:23+00:00"
-  },
-  {
-   "category": "Deportes",
-   "source": "Infobae Deportes",
-   "title": "Fuegos artificiales, bengalas y miles de paraguas: el espectacular recibimiento a Boca Juniors para el Superclásico",
-   "summary": "La multitud local preparó una fiesta para enfrentar a River Plate en La Bombonera",
-   "link": "https://www.infobae.com/deportes/2026/11/01/fuegos-artificiales-bengalas-y-miles-de-paraguas-el-espectacular-recibimiento-a-boca-juniors-para-el-superclasico/",
-   "date": "2026-11-01T18:53:48+00:00"
-  },
-  {
-   "category": "Deportes",
-   "source": "Clarín Deportes",
-   "title": "Rodolfo D'Onofrio explotó por la temprana roja a Martínez Quarta en el Superclásico: \"¡Qué ladrones que son! Favorecen a sus amigos\"",
-   "summary": "El ex presidente de River se expresó a través de sus redes sociales después de la decisión de Nicolás Ramírez, convocado por el VAR Silvio Trucco. \"El fútbol argentino no se merece esto\", afirmó.",
-   "link": "https://www.clarin.com/deportes/rodolfo-donofrio-exploto-temprana-roja-martinez-quarta-superclasico-ladrones_0_x9UzgNtk88.html",
-   "date": "2026-11-01T18:52:36+00:00"
-  },
-  {
-   "category": "Deportes",
-   "source": "Olé",
-   "title": "¿Por qué River protestó en el gol de Di Lollo?",
-   "summary": "En pleno forcejeo con Lautaro Rivero, el defensor de Boca se impuso y clavó el 1-0 de cabeza. Acá, el repaso de la acción.",
-   "link": "https://www.ole.com.ar/futbol-primera/river-boca-di-lollo-rivero_0_FLOPBRJpZh.html",
-   "date": "2026-11-01T18:51:49+00:00"
-  },
-  {
    "category": "Economía",
    "source": "Ámbito",
    "title": "Las exportaciones de carne crecieron casi 37% en lo que va de 2026 por la mejora en los precios",
    "summary": "Según un informe del Consorcio ABC, las ventas externas de carne bovina crecieron un 36,9% en valor durante los primeros nueve meses del año, mientras que los volúmenes aumentaron apenas 5,3%. Sin embargo, en septiembre los envíos retrocedieron frente a agosto y China…",
    "link": "https://www.ambito.com/economia/las-exportaciones-carne-crecieron-casi-37-lo-que-va-2026-la-mejora-los-precios-n6340272",
    "date": "2026-11-01T18:50:08+00:00"
-  },
-  {
-   "category": "Deportes",
-   "source": "Olé",
-   "title": "Rodolfo D'Onofrio explotó por la roja a Martínez Quarta en el Boca vs. River: \"¡Qué ladrones que son!\"",
-   "summary": "El superclásico arrancó con la correcta expulsión al defensor del Millonario y el expresidente se expresó en redes sociales.",
-   "link": "https://www.ole.com.ar/futbol-primera/rodolfo-donofrio-exploto-roja-matinez-quarta-bocavs-river-ladrones-redes-sociales_0_lkn6jNlqNL.html",
-   "date": "2026-11-01T18:50:06+00:00"
-  },
-  {
-   "category": "Deportes",
-   "source": "Infobae Deportes",
-   "title": "La lupa sobre la expulsión a Martínez Quarta en el inicio del Superclásico entre Boca y River: qué dice el reglamento",
-   "summary": "El árbitro Nicolás Ramírez revisó la secuencia de la infracción a Merentiel tras el llamado del VAR",
-   "link": "https://www.infobae.com/deportes/2026/11/01/la-lupa-sobre-la-expulsion-a-martinez-quarta-en-el-inicio-del-superclasico-entre-boca-y-river-que-dice-el-reglamento/",
-   "date": "2026-11-01T18:49:19+00:00"
-  },
-  {
-   "category": "Internacional",
-   "source": "Infobae Mundo",
-   "title": "Cuba aplica una nueva Ley de Migración: qué cambia para los ciudadanos dentro y fuera de la isla",
-   "summary": "La normativa establece criterios de residencia efectiva para los ciudadanos y mantiene su condición previa al 1 de noviembre, mientras integra cambios en gestiones consulares, ciudadanía y entradas y salidas",
-   "link": "https://www.infobae.com/cuba/2026/11/01/cuba-aplica-una-nueva-ley-de-migracion-que-cambia-para-los-ciudadanos-dentro-y-fuera-de-la-isla/",
-   "date": "2026-11-01T18:44:51+00:00"
-  },
-  {
-   "category": "Internacional",
-   "source": "Infobae Mundo",
-   "title": "De Bluefields a Reus: la historia de un médico nicaragüense en España",
-   "summary": "Luis Delgado trabajó como pediatra en Bluefields, donde la falta de recursos y la violencia influyeron en su decisión de emigrar con su esposa.",
-   "link": "https://www.infobae.com/nicaragua/2026/11/01/de-bluefields-a-reus-la-historia-de-un-medico-nicaraguense-en-espana/",
-   "date": "2026-11-01T18:41:48+00:00"
-  },
-  {
-   "category": "Internacional",
-   "source": "Infobae Mundo",
-   "title": "Las tarifas eléctricas en Guatemala permanecerán sin cambios entre noviembre de 2026 y enero de 2027",
-   "summary": "La CNEE confirmó la continuidad de los valores regulados para los abonados de EEGSA, Deocsa y Deorsa, tanto en el segmento subsidiado como en el resto, durante el próximo trimestre",
-   "link": "https://www.infobae.com/guatemala/2026/11/01/las-tarifas-electricas-en-guatemala-permaneceran-sin-cambios-entre-noviembre-de-2026-y-enero-de-2027/",
-   "date": "2026-11-01T18:39:09+00:00"
-  },
-  {
-   "category": "Internacional",
-   "source": "Infobae Mundo",
-   "title": "En Panamá un juez de paz es imputado por supuesto hurto pecuario agravado",
-   "summary": "El ahora procesado era el encargado de mediar y resolver conflictos comunitarios",
-   "link": "https://www.infobae.com/panama/2026/11/01/en-panama-un-juez-de-paz-es-imputado-por-supuesto-hurto-pecuario-agravado/",
-   "date": "2026-11-01T18:37:39+00:00"
   },
   {
    "category": "Economía",
@@ -258,44 +530,12 @@
    "date": "2026-11-01T18:36:13+00:00"
   },
   {
-   "category": "Deportes",
-   "source": "Olé",
-   "title": "Tras el escandalo y abandonar el partido, el tenista argentino que se disculpó con el torneo",
-   "summary": "Ugo Carabelli reconoció su error después de irse de la cancha y ser descalificado: “Mi reacción fue mala”. Días antes, Alex Barrena también había protestado por la superficie resbaladiza.",
-   "link": "https://www.ole.com.ar/tenis/camilougocarabelli-challengerdeguayaquil-descalificacion-alexbarrena-elbrujo_0_s3Kaw3Bf1B.html",
-   "date": "2026-11-01T18:33:29+00:00"
-  },
-  {
    "category": "Tecnología",
    "source": "Xataka",
    "title": "\"Decidí hacerme amiga del fantasma\": en Japón las casas encantadas se han convertido en la obsesión de los cazadores de gangas",
    "summary": "Ryua vive en un pequeño apartamento del barrio de Setagaya, en Tokio, por el que debería estar pagando un alquiler de 62.000 yenes , alrededor de 350 euros. Ese es el precio de mercado. Ella en realidad paga 45.000 yenes, un 30% menos. Algo parecido le pasa a Diane Tincher,…",
    "link": "https://www.xataka.com/magnet/decidi-hacerme-amiga-fantasma-japon-casas-encantadas-se-han-convertido-obsesion-cazadores-gangas",
    "date": "2026-11-01T18:31:27+00:00"
-  },
-  {
-   "category": "Deportes",
-   "source": "Clarín Deportes",
-   "title": "La roja para Martínez Quarta, la gran polémica del Superclásico: Ramírez no cobró nada, pero Trucco desde el VAR lo llamó y el defensor de River se fue expulsado",
-   "summary": "El zaguero tomó por la espalda a Merentiel, que se iba solo al área rival. El árbitro principal no había observado la falta. El equipo de Ponzio se quedó con 10 antes de los diez minutos de juego.",
-   "link": "https://www.clarin.com/deportes/boca-vs-river-tarjeta-roja-martinez-quarta-primera-gran-polemica-superclasico_0_KdWLEKYeCP.html",
-   "date": "2026-11-01T18:17:07+00:00"
-  },
-  {
-   "category": "Deportes",
-   "source": "Olé",
-   "title": "Video: la correcta expulsión de Martínez Quarta en el superclásico",
-   "summary": "El defensor de River frenó con un agarrón a Merentiel. El VAR llamó a Ramírez y le mostró la roja por impedir una ocasión manifiesta de gol.",
-   "link": "https://www.ole.com.ar/futbol-primera/superclasico-boca-river-roja-martinez-quarta-jugada-video_0_UALZ4NPPkX.html",
-   "date": "2026-11-01T18:13:18+00:00"
-  },
-  {
-   "category": "Deportes",
-   "source": "Clarín Deportes",
-   "title": "New England Revolution vs Inter Miami, con Lionel Messi, EN VIVO, por la MLS: a qué hora juegan, formaciones y cómo ver el partido",
-   "summary": "Juegan desde las 21 de la Argentina con televisación de Apple TV. El equipo de Kily González busca asegurarse el segundo lugar en la Conferencia Este y una plaza en la Copa de Campeones de la Concacaf.",
-   "link": "https://www.clarin.com/deportes/new-england-revolution-vs-inter-miami-lionel-messi-vivo-mls-hora-juegan-formaciones-ver-partido_0_H8MGpxhOTe.html",
-   "date": "2026-11-01T18:05:37+00:00"
   },
   {
    "category": "Tecnología",
@@ -306,14 +546,6 @@
    "date": "2026-11-01T18:01:27+00:00"
   },
   {
-   "category": "Deportes",
-   "source": "Clarín Deportes",
-   "title": "Dejó el fútbol por las lesiones y ganó el Maratón de Nueva York: el sueco Almgren ratificó el cambio de tendencia y la amenaza a los africanos",
-   "summary": "En su debut en la mítica distancia, le devolvió a Europa un título por el que esperó tres décadas. Venía de conquistar el Mundial de Medio Maratón en Copenhague, en septiembre, y había arrasado en los 10 mil metros, en Birmingham.",
-   "link": "https://www.clarin.com/deportes/dejo-futbol-lesiones-gano-maraton-nueva-york-sueco-almgren-ratifico-cambio-tendencia-amenaza-africanos_0_O9c8rNZ4nO.html",
-   "date": "2026-11-01T18:00:54+00:00"
-  },
-  {
    "category": "Economía",
    "source": "Ámbito",
    "title": "Dormir como los reyes: cómo es por dentro el exclusivo hotel oculto en el Palacio de Versalles",
@@ -322,44 +554,12 @@
    "date": "2026-11-01T18:00:00+00:00"
   },
   {
-   "category": "Deportes",
-   "source": "Infobae Deportes",
-   "title": "Harry Kane contó qué característica de Messi le gustaría tener: “Sería muy difícil detenerme”",
-   "summary": "El flamante ganador del Balón de Oro volvió a expresar su admiración por el delantero argentino",
-   "link": "https://www.infobae.com/deportes/2026/11/01/harry-kane-conto-que-caracteristica-de-messi-le-gustaria-tener-seria-muy-dificil-detenerme/",
-   "date": "2026-11-01T17:55:25+00:00"
-  },
-  {
-   "category": "Deportes",
-   "source": "Olé",
-   "title": "El recibimiento con chicana de Boca a River",
-   "summary": "Por las quejas por el arbitraje, el Xeneize recibió a su equipo con paraguas por \"la guarida alta\" del Millonario.",
-   "link": "https://www.ole.com.ar/boca-juniors/recibimiento-chicana-boca-river_0_xIgb6THBjn.html",
-   "date": "2026-11-01T17:54:34+00:00"
-  },
-  {
    "category": "Economía",
    "source": "Infobae Economía",
    "title": "Cada vez se pide más experiencia para empezar a trabajar: qué aconsejan los especialistas para romper esa barrera",
    "summary": "Con la IA simplificando las tareas de entrada y empresas que priorizan perfiles semi senior y senior, expertos en recursos humanos coinciden en que los nuevos postulantes a un empleo tienen que comenzar por proyectos académicos, certificaciones, y habilidades que se puedan…",
    "link": "https://www.infobae.com/economia/2026/11/01/cada-vez-se-pide-mas-experiencia-para-empezar-a-trabajar-que-aconsejan-los-especialistas-para-romper-esa-barrera/",
    "date": "2026-11-01T17:54:16+00:00"
-  },
-  {
-   "category": "Deportes",
-   "source": "Infobae Deportes",
-   "title": "Alexis Vega celebra su gol ante el América haciendo sombra como boxeador ¿A quién le dedicó el festejo?",
-   "summary": "Vega marcó el segundo tanto de los Diablos Rojos en el Estadio Banorte",
-   "link": "https://www.infobae.com/mexico/deportes/2026/11/01/alexis-vega-celebra-su-gol-ante-el-america-haciendo-sombra-como-boxeador-a-quien-le-dedico-el-festejo/",
-   "date": "2026-11-01T17:51:05+00:00"
-  },
-  {
-   "category": "Deportes",
-   "source": "Olé",
-   "title": "Cómo les fue a Valentín Perrone y Marco Morelli en el GP de Malasia de Moto3",
-   "summary": "Pasó una nueva fecha del Mundial de motociclismo y los argentinos tuvieron un domingo modesto: el Coyote fue 15°, y el Gladiador, 20°.",
-   "link": "https://www.ole.com.ar/autos/valentinperrone-marcomorelli-gpmalasia-moto3_0_YAecBcWxUg.html",
-   "date": "2026-11-01T17:48:19+00:00"
   },
   {
    "category": "Tecnología",
@@ -396,8 +596,8 @@
   {
    "category": "Argentina",
    "source": "Clarín",
-   "title": "Vota Bariloche y se juega el primer test electoral entre Weretilneck y los Milei rumbo a 2027",
-   "summary": "Aunque son aliados a nivel nacional, la elección de convencionales constituyentes enfrenta localmente al gobernador de Río Negro con La Libertad Avanza. Hay más de 115.000 electores habilitados y 13 listas en competencia.",
+   "title": "Cerraron las urnas en Bariloche para elegir convencionales constituyentes, el primer test electoral entre Weretilneck y los Milei rumbo a 2027",
+   "summary": "Aunque son aliados a nivel nacional, la elección enfrenta localmente al gobernador de Río Negro con La Libertad Avanza. Hubo 13 listas en competencia y 115.000 electores habilitados para votar. La participación promedió el 52%.",
    "link": "https://www.clarin.com/politica/vota-bariloche-juega-primer-test-electoral-weretilneck-milei-rumbo-2027_0_qEuZvsY9Fs.html",
    "date": "2026-11-01T17:02:41+00:00"
   },
@@ -426,22 +626,6 @@
    "date": "2026-11-01T16:31:27+00:00"
   },
   {
-   "category": "Deportes",
-   "source": "Clarín Deportes",
-   "title": "Carlos Alcaraz no iba a jugar en Viena y fue campeón sin ceder un set: \"Es la mejor decisión que pudimos tomar\"",
-   "summary": "El español sumó su cuarto título en el año y el número 28 en su carrera como profesional. Venció al australiano Alex de Miñaur, que había derrotado en semis a Alexander Zverev, el flamante número 1 del mundo.",
-   "link": "https://www.clarin.com/deportes/carlos-alcaraz-iba-jugar-viena-campeon-ceder-set-mejor-decision-pudimos-tomar_0_DLLKrg2ZjR.html",
-   "date": "2026-11-01T16:22:30+00:00"
-  },
-  {
-   "category": "Deportes",
-   "source": "Infobae Deportes",
-   "title": "Histórico: Cecilia Dieleke ganó la medalla de oro en la natación de los Juegos Olímpicos de la Juventud Dakar 2026",
-   "summary": "La joven nadadora se consagró en la prueba de 200 metros espalda con un tiempo de 2:10.05, nueva mejor marca nacional y sudamericana. Es la primera presea para la delegación argentina en la cuarta edición del evento que se desarrolla en África",
-   "link": "https://www.infobae.com/deportes/2026/11/01/historico-cecilia-dieleke-gano-la-medalla-de-oro-en-la-natacion-de-los-juegos-olimpicos-de-la-juventud-dakar-2026/",
-   "date": "2026-11-01T16:14:03+00:00"
-  },
-  {
    "category": "Argentina",
    "source": "La Nación",
    "title": "Karina Milei y Jorge Macri recorrieron las obras del escenario donde dará misa el Papa",
@@ -466,22 +650,6 @@
    "date": "2026-11-01T15:39:57+00:00"
   },
   {
-   "category": "Deportes",
-   "source": "Infobae Deportes",
-   "title": "Canelo Álvarez volvió tras 13 meses fuera del boxeo y logró un contundente triunfo: un juez federal argentino fue jurado de la pelea",
-   "summary": "El mexicano superó por decisión unánime al francocamerunés Christian Mbilli. Jorge Luciano Gorini, juez de los tribunales de Comodoro Py, vio triunfador al ganador en su tarjeta",
-   "link": "https://www.infobae.com/deportes/2026/11/01/canelo-alvarez-volvio-tras-13-meses-fuera-del-boxeo-y-logro-un-contundente-triunfo-un-juez-federal-argentino-fue-jurado-de-la-pelea/",
-   "date": "2026-11-01T15:29:38+00:00"
-  },
-  {
-   "category": "Deportes",
-   "source": "Clarín Deportes",
-   "title": "Cecilia Dieleke hizo historia en Dakar 2026: ganó el oro olímpico juvenil y quebró el récord sudamericano de los 200 metros espalda",
-   "summary": "La nadadora de 17 años, una de las abanderadas de la delegación nacional, se impuso en la final con un tiempo de 2m10s05 y logró la primera medalla dorada argentina en Senegal. Superó por 31 centésimas la marca nacional y continental de Malena Santillán y le dio al país su…",
-   "link": "https://www.clarin.com/deportes/cecilia-dieleke-hizo-historia-dakar-2026-gano-oro-olimpico-juvenil-quebro-record-sudamericano-200-metros-espalda_0_6CTzN7Hwzk.html",
-   "date": "2026-11-01T15:23:06+00:00"
-  },
-  {
    "category": "Economía",
    "source": "Infobae Economía",
    "title": "“Con el corazón partido”: Gladys La Bomba Tucumana anunció el cierre de su local de empanadas en Recoleta y culpó a Milei",
@@ -496,22 +664,6 @@
    "summary": "Francisco Javier Páez Ayuso es Doctor Ingeniero Industrial por la Universidad Politécnica de Madrid (UPM). Podríamos terminar aquí la presentación y convendríamos en que está plenamente capacitado para contestar las preguntas que tenemos para él en Xataka . Pero lo cierto es…",
    "link": "https://www.xataka.com/movilidad/francisco-javier-paez-doctor-ingeniero-industrial-compras-coche-prueba-moneda-no-suficiente-pide-informe-completo-dgt",
    "date": "2026-11-01T15:01:27+00:00"
-  },
-  {
-   "category": "Deportes",
-   "source": "Clarín Deportes",
-   "title": "De extremo imparable a cerebro magistral: cómo Messi pasó de correr a caminar para reinventar su juego y dominar a los 39 años el fútbol mundial",
-   "summary": "El analista táctico español Pedro Sáez reconstruye en un video fabuloso la transformación del argentino a lo largo de más de dos décadas y explica cómo fue cambiando su posición en la cancha. De Rijkaard a Scaloni, pasando por Guardiola, Luis Enrique y Valverde, las distintas…",
-   "link": "https://www.clarin.com/deportes/extremo-imparable-cerebro-magistral-messi-paso-correr-caminar-reinventar-juego-dominar-39-anos-futbol-mundial_0_lAn6s9ID0K.html",
-   "date": "2026-11-01T15:00:13+00:00"
-  },
-  {
-   "category": "Deportes",
-   "source": "Infobae Deportes",
-   "title": "La advertencia de la Fórmula 1 para los pilotos y equipos para la largada del GP de México: “Todos serán atacantes y defensores”",
-   "summary": "Los comisarios deportivos de la F1 aclararon las reglas que se aplicarán en la primera vuelta de la carrera de este año",
-   "link": "https://www.infobae.com/deportes/2026/11/01/la-advertencia-de-la-formula-1-para-los-pilotos-y-equipos-para-la-largada-del-gp-de-mexico-todos-seran-atacantes-y-defendores/",
-   "date": "2026-11-01T14:59:41+00:00"
   },
   {
    "category": "Tecnología",
@@ -562,14 +714,6 @@
    "date": "2026-11-01T13:52:00+00:00"
   },
   {
-   "category": "Deportes",
-   "source": "Clarín Deportes",
-   "title": "Lanús vs Gimnasia de Mendoza por el Torneo Clausura 2026, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido",
-   "summary": "Chocan en la Fortaleza de Guidi y Cabrero por la fecha 15 de la Zona A del certamen.",
-   "link": "https://www.clarin.com/deportes/lanus-vs-gimnasia-mendoza-torneo-clausura-2026-vivo-hora-juegan-formaciones-ver-partido_0_bC7ZTiwVt9.html",
-   "date": "2026-11-01T13:38:08+00:00"
-  },
-  {
    "category": "Economía",
    "source": "Infobae Economía",
    "title": "El Gobierno analiza destinar más fondos a los bancos para impulsar el crédito hipotecario",
@@ -584,14 +728,6 @@
    "summary": "La Secretaria de la Presidencia y el jefe de Gobierno porteño recorrieron la zona del Monumento a los españoles en Palermo, donde estará León XIV. El Gobierno se prepara para una semana clave en el Congreso.",
    "link": "https://www.clarin.com/politica/javier-milei-vivo-arranca-mes-clave-gobierno-congreso-debate-banco-central-defensa-soberania_0_ciI5DpdxfR.html",
    "date": "2026-11-01T13:15:37+00:00"
-  },
-  {
-   "category": "Tecnología",
-   "source": "Xataka",
-   "title": "Hasta ahora, las apps de siempre solo podían hacer lo que sus creadores querían. La IA está dinamitando eso",
-   "summary": "Antes descargabas una aplicación para algo muy concreto que necesitabas y debías aguantar el resto de funciones extra. Para competir, los desarrolladores fueron engordando sus apps hasta niveles a menudo absurdos. Así que ahí estabas tú, con una aplicación que te servía para…",
-   "link": "https://www.xataka.com/robotica-e-ia/ahora-apps-siempre-solo-podian-hacer-que-sus-creadores-querian-ia-esta-dinamitando-eso",
-   "date": "2026-11-01T13:01:28+00:00"
   },
   {
    "category": "Economía",
@@ -706,22 +842,6 @@
    "date": "2026-11-01T10:45:07+00:00"
   },
   {
-   "category": "Economía",
-   "source": "Clarín Economía",
-   "title": "Euro hoy en Honduras: precio y cotización de la divisa este domingo 1 de noviembre de 2026",
-   "summary": "Mirá la cotización del euro en Honduras, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
-   "link": "https://www.clarin.com/economia/euro-hoy-en-honduras-precio-y-cotizacion-de-la-divisa-este-domingo-1-de-noviembre-de-2026_0_5aPMSGqevj.html",
-   "date": "2026-11-01T10:45:07+00:00"
-  },
-  {
-   "category": "Economía",
-   "source": "Clarín Economía",
-   "title": "Euro hoy en República Dominicana: precio y cotización de la divisa este domingo 1 de noviembre de 2026",
-   "summary": "Mirá la cotización del euro en República Dominicana, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
-   "link": "https://www.clarin.com/economia/euro-hoy-en-republica-dominicana-precio-y-cotizacion-de-la-divisa-este-domingo-1-de-noviembre-de-2026_0_8zNadSEE2m.html",
-   "date": "2026-11-01T10:45:06+00:00"
-  },
-  {
    "category": "Argentina",
    "source": "La Nación",
    "title": "Agustín Caulo: “El Gobierno sigue trabajando para que no se politice la visita de León XIV a la Argentina”",
@@ -771,22 +891,6 @@
   },
   {
    "category": "Argentina",
-   "source": "Clarín",
-   "title": "Elecciones legislativas en Estados Unidos: cómo puede impactar el resultado en la relación con Argentina",
-   "summary": "La Casa Rosada mira con atención los comicios de medio término de este martes. Los posibles escenarios para los próximos dos años si el Partido Republicano pierde el control del Parlamento.",
-   "link": "https://www.clarin.com/mundo/elecciones-legislativas-estados-unidos-puede-impactar-resultado-relacion-argentina_0_dO136mjNTr.html",
-   "date": "2026-11-01T09:01:40+00:00"
-  },
-  {
-   "category": "Argentina",
-   "source": "Clarín",
-   "title": "Nuevas encuestas electorales en CABA, Santa Fe y Mendoza: cómo viene la pelea para el 2027",
-   "summary": "Son datos de la consultora DC, que suele darle buenos números a La Libertad Avanza. Midió los escenarios locales para jefe de Gobierno y gobernador. Cifras por espacios y candidatos.",
-   "link": "https://www.clarin.com/politica/nuevas-encuestas-electorales-caba-santa-fe-mendoza-viene-pelea-2027_0_4yQvZBU9zZ.html",
-   "date": "2026-11-01T09:01:40+00:00"
-  },
-  {
-   "category": "Argentina",
    "source": "La Nación",
    "title": "El Gobierno busca evitar fricciones en la visita del papa León XIV y envía señales a la Iglesia",
    "summary": "A una semana de la llegada del pontífice al país, Karina Milei pide no politizar el mensaje del líder de los católicos y hace gestos conciliadores a los obispos",
@@ -824,30 +928,6 @@
    "summary": "BYD no pone fechas, pero buscará ser rápido la marca número uno del mercado. La competencia con las históricas y la que vendrá con Tesla. Tensiones por el cupo con cero arancel para autos eléctricos e híbridos, polémicas por su origen chino y cómo podría afectarles el vínculo…",
    "link": "https://www.infobae.com/economia/2026/11/01/clima-de-negocios-los-planes-de-la-automotriz-que-llego-al-pais-hace-un-ano-ya-entro-al-top-10-de-ventas-y-apuesta-a-ser-lider/",
    "date": "2026-11-01T04:27:58+00:00"
-  },
-  {
-   "category": "Economía",
-   "source": "Infobae Economía",
-   "title": "Hackeo en Binance: tres claves que deben tener en cuenta los usuarios argentinos de la plataforma cripto",
-   "summary": "La compañía informó que cubrió el 90% de los fondos perdidos y se comprometió a que hoy rehabilitaría los retiros, mientras expertos advierten sobre posibles engaños digitales",
-   "link": "https://www.infobae.com/economia/2026/11/01/hackeo-en-binance-tres-claves-que-deben-tener-en-cuenta-los-usuarios-argentinos-de-la-plataforma-cripto/",
-   "date": "2026-11-01T04:27:34+00:00"
-  },
-  {
-   "category": "Economía",
-   "source": "Infobae Economía",
-   "title": "Devaluación del real: ¿es una señal de alerta para el peso argentino?",
-   "summary": "La caída de la moneda del principal socio comercial del país después del triunfo electoral de Lula da Silva deterioró el índice de competitividad cambiaria que mide el BCRA",
-   "link": "https://www.infobae.com/economia/2026/11/01/devaluacion-del-real-es-una-senal-de-alerta-para-el-peso-argentino/",
-   "date": "2026-11-01T04:27:11+00:00"
-  },
-  {
-   "category": "Economía",
-   "source": "Infobae Economía",
-   "title": "Sebastián Galiani: “Esta transformación necesita tiempo y continuidad”",
-   "summary": "El economista cercano al Gobierno analizó en diálogo con Infobae desde Estados Unidos el debate sobre las reservas del Banco Central, el atraso cambiario y explicó por qué una alianza política amplia es clave para crecer",
-   "link": "https://www.infobae.com/economia/2026/11/01/sebastian-galiani-esta-transformacion-necesita-tiempo-y-continuidad/",
-   "date": "2026-11-01T04:26:42+00:00"
   },
   {
    "category": "Argentina",
@@ -906,14 +986,6 @@
    "date": "2026-11-01T03:46:04+00:00"
   },
   {
-   "category": "Argentina",
-   "source": "Clarín",
-   "title": "Los pecados de Javier Milei y la noche de fuga que alteró a todo el Gobierno",
-   "summary": "Estados Unidos dio la orden de ayudar a Bolsonaro y el Presidente se puso a disposición. El rol de Caputo y la SIDE y los nuevos heridos en el Gobierno. El desafío que plantea Bullrich y los movimientos de Cristina y Kicillof",
-   "link": "https://www.clarin.com/politica/pecados-javier-milei-noche-fuga-altero-gobierno_0_GxBnXG0Tqu.html",
-   "date": "2026-11-01T03:28:51+00:00"
-  },
-  {
    "category": "Internacional",
    "source": "BBC Mundo",
    "title": "\"La pérdida de capacidad del Estado de bienestar en Europa es la clave para entender las protestas lideradas por los jóvenes\"",
@@ -970,84 +1042,12 @@
    "date": "2026-11-01T01:44:43+00:00"
   },
   {
-   "category": "Argentina",
-   "source": "La Nación",
-   "title": "Enojo de La Cámpora contra Kicillof por su rechazo a los candidatos a dedo de Cristina Kirchner",
-   "summary": "“Llaman la atención algunas valentías para desafiar a Cristina que aparecen justo ahora que está presa” a quienes fueron sus grandes beneficiarios; le contestó la extitular de Anses, Fernanda Raverta, en redes sociales",
-   "link": "https://www.lanacion.com.ar/politica/enojo-de-la-campora-contra-kicillof-por-su-rechazo-a-los-candidatos-a-dedo-de-cristina-kirchner-nid31102026/",
-   "date": "2026-11-01T00:29:55+00:00"
-  },
-  {
-   "category": "Argentina",
-   "source": "La Nación",
-   "title": "Milei mostró su alegría por la visita del Papa y dijo que ceder en el programa sería conducir a la Argentina “al infierno”",
-   "summary": "El Presidente planteó que “cualquier alternativa” que implique correrse del plan “es injusta y destruye la economía”; esto en medio de las presiones externas y dentro del propio gobierno para incentivar la actividad",
-   "link": "https://www.lanacion.com.ar/politica/milei-mostro-su-alegria-por-la-visita-del-papa-y-dijo-que-ceder-en-el-programa-seria-conducir-a-la-nid31102026/",
-   "date": "2026-10-31T23:47:46+00:00"
-  },
-  {
-   "category": "Argentina",
-   "source": "Clarín",
-   "title": "A una semana de la llegada del Papa, Milei se mostró con evangelistas, habló del segundo mandato y criticó al kirchnerismo",
-   "summary": "El Presidente encabezó la inauguración de un auditorio de la iglesia Jesús es Rey en Neuquén, acompañado por Karina Milei y Martín Menem. Celebró la próxima visita de León XIV a la Argentina, defendió el rumbo económico y anticipó su propuesta electoral para 2027.",
-   "link": "https://www.clarin.com/politica/semana-llegada-papa-milei-mostro-evangelistas-hablo-segundo-mandato-critico-kirchnerismo_0_Uxjy7WjtYq.html",
-   "date": "2026-10-31T23:25:00+00:00"
-  },
-  {
-   "category": "Argentina",
-   "source": "La Nación",
-   "title": "Tras la derrota y huida de Flavio Bolsonaro, el presidente Milei quedó sin socios en Brasil",
-   "summary": "El mandatario argentino conservará como aliados a los gobernadores opositores a Lula; sus pares de Chile y Colombia no dudaron en felicitar al ganador de las elecciones",
-   "link": "https://www.lanacion.com.ar/politica/tras-la-derrota-y-huida-de-flavio-bolsonaro-el-presidente-milei-quedo-sin-socios-en-brasil-nid31102026/",
-   "date": "2026-10-31T23:20:42+00:00"
-  },
-  {
-   "category": "Argentina",
-   "source": "La Nación",
-   "title": "Monseñor Braida: “Es importante que el Papa vaya a Don Orione; los más postergados nunca pueden ser la variable de ajuste”",
-   "summary": "El obispo de La Rioja y presidente de Pastoral Social sostiene que en el país existe una crisis económica y de confrontación política muy profunda; advierte sobre las carencias y postergaciones de la discapacidad y llama a buscar acuerdos",
-   "link": "https://www.lanacion.com.ar/politica/monsenor-braida-es-importante-que-el-papa-vaya-a-don-orione-los-mas-postergados-nunca-pueden-ser-la-nid31102026/",
-   "date": "2026-10-31T22:23:46+00:00"
-  },
-  {
-   "category": "Argentina",
-   "source": "La Nación",
-   "title": "El Gobierno invita a Villarruel al evento con el Papa en el Palacio Libertad, pero se muestra incómodo con los expresidentes",
-   "summary": "La Casa Rosada busca montar un escenario al estilo Asamblea Legislativa; vaivenes sobre los exmandatarios; los planes de Macri y los gobernadores",
-   "link": "https://www.lanacion.com.ar/politica/el-gobierno-invita-a-villarruel-al-evento-con-el-papa-en-el-palacio-libertad-pero-se-muestra-nid31102026/",
-   "date": "2026-10-31T22:19:03+00:00"
-  },
-  {
-   "category": "Argentina",
-   "source": "Clarín",
-   "title": "La Cámpora salió al cruce de Kicillof por las candidaturas a \"dedo\" y le recordó que Cristina Kirchner lo eligió en 2019",
-   "summary": "Dirigentes cercanos a Máximo Kirchner cuestionaron al gobernador después de que Clarín revelara que plantea competir en una PASO para definir las candidaturas de 2027. Un senador camporista lo acusó de \"ingratitud\" y \"estupidez\". La interna del peronismo suma un nuevo capítulo.",
-   "link": "https://www.clarin.com/politica/campora-salio-cruce-kicillof-candidaturas-dedo-recordo-cristina-kirchner-eligio-2019_0_SFpb26LBmf.html",
-   "date": "2026-10-31T21:37:55+00:00"
-  },
-  {
    "category": "Internacional",
    "source": "BBC Mundo",
    "title": "\"Yo no pinto gordas\": qué hay detrás del estilo único del célebre artista colombiano Fernando Botero",
    "summary": "Las alegres pinturas del artista colombiano Fernando Botero reinterpretan algunas de las obras más icónicas y célebres de la historia del arte europeo. ¿Qué revela su singular visión sobre la historia del arte y el lugar que ocupa América Latina en ella?",
    "link": "https://www.bbc.com/mundo/articles/c60me2mwjygko?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-31T20:51:06+00:00"
-  },
-  {
-   "category": "Argentina",
-   "source": "Clarín",
-   "title": "Con críticas a Milei y al kirchnerismo los hermanos Passaglia lanzaron su proyecto presidencial: \"Nos quieren hacer elegir entre dos fracasos\"",
-   "summary": "Los dirigentes nicoleños rechazaron la polarización política y afirmaron que la sociedad no debe resignarse a elegir entre dos opciones fracasadas. Asimismo, advirtieron que \"ordenar la macroeconomía no alcanza\" si los trabajadores y los comercios locales no logran salir…",
-   "link": "https://www.clarin.com/politica/criticas-milei-kirchnerismo-hermanos-passaglia-lanzaron-proyecto-presidencial-quieren-hacer-elegir-fracasos_0_duSpzO0agz.html",
-   "date": "2026-10-31T19:48:12+00:00"
-  },
-  {
-   "category": "Argentina",
-   "source": "Clarín",
-   "title": "Patricia Bullrich lleva la interna al Senado y demora una designación clave para nombrar más jueces",
-   "summary": "Es la presidencia de la Comisión de Acuerdos, por donde pasan los pliegos judiciales. Tras la muerte de Pagotto, en el bloque libertario postulan a la neuquina Márquez. Pero la exministra no define.",
-   "link": "https://www.clarin.com/politica/patricia-bullrich-lleva-interna-senado-demora-designacion-clave-nombrar-jueces_0_pGkUoNhKMm.html",
-   "date": "2026-10-31T19:37:00+00:00"
   },
   {
    "category": "Internacional",

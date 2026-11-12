@@ -1,101 +1,493 @@
 {
- "updated": "2026-11-12T02:42:31.836001+00:00",
+ "updated": "2026-11-12T10:40:35.218055+00:00",
  "items": [
   {
-   "category": "Internacional",
-   "source": "Infobae Mundo",
-   "title": "La neoyorquina que levantó un santuario de memoria y arte en El Salvador",
-   "summary": "Peggy O'Neil, religiosa estadounidense de 87 años, llegó al país durante el conflicto y fundó en Suchitoto un espacio de música, pintura y dibujo para trabajar la memoria de familias afectadas",
-   "link": "https://www.infobae.com/el-salvador/2026/11/12/una-mision-temporal-que-se-volvio-hogar-la-neoyorquina-que-levanto-un-santuario-de-memoria-y-arte-en-el-salvador/",
-   "date": "2026-11-12T02:22:34+00:00"
+   "category": "Argentina",
+   "source": "La Nación",
+   "title": "Dónde voto: publicaron el padrón provisorio para las elecciones de Argentina 2027",
+   "summary": "El año que viene los argentinos elegirán a su próximo presidente, y es importante para los que van a votar conocer previamente el lugar en el que ejercerán el sufragio para agilizar el trámite electoral",
+   "link": "https://www.lanacion.com.ar/politica/donde-voto-publicaron-el-padron-provisorio-para-las-elecciones-de-argentina-2027-nid02112026/",
+   "date": "2026-11-12T10:36:30+00:00"
+  },
+  {
+   "category": "Economía",
+   "source": "Infobae Economía",
+   "title": "Punto por punto: la trama de espionaje, infidelidad y tecnología que puede costarle el cargo al CEO de Nvidia",
+   "summary": "La relación de Jensen Huang con una presunta agente china, las investigaciones en curso, la caída de las acciones, una segunda amante y la posible salida de su cargo del ejecutivo",
+   "link": "https://www.infobae.com/economia/2026/11/12/punto-por-punto-la-trama-de-espionaje-infidelidad-y-tecnologia-que-puede-costarle-el-cargo-al-ceo-de-nvidia/",
+   "date": "2026-11-12T10:33:02+00:00"
   },
   {
    "category": "Internacional",
    "source": "Infobae Mundo",
-   "title": "Panamá busca convertirse en el centro regional de congresos y convenciones",
-   "summary": "La nación canalera apuesta a su posición geográfica y a su economía dolarizada",
-   "link": "https://www.infobae.com/panama/2026/11/12/panama-busca-convertirse-en-el-centro-regional-de-congresos-y-convenciones/",
-   "date": "2026-11-12T02:18:18+00:00"
+   "title": "Punto por punto: la trama de espionaje, infidelidad y tecnología que puede costarle el cargo al CEO de Nvidia",
+   "summary": "La relación de Jensen Huang con una presunta agente china, las investigaciones en curso, la caída de las acciones, una segunda amante y la posible salida de su cargo del ejecutivo",
+   "link": "https://www.infobae.com/economia/2026/11/12/punto-por-punto-la-trama-de-espionaje-infidelidad-y-tecnologia-que-puede-costarle-el-cargo-al-ceo-de-nvidia/",
+   "date": "2026-11-12T10:33:02+00:00"
+  },
+  {
+   "category": "Tecnología",
+   "source": "Xataka",
+   "title": "Carrefour se adelanta al Black Friday y liquida este robot aspirador Xiaomi súper potente y con tres horas de autonomía",
+   "summary": "Son muchas ya las tiendas que se están adelantando al Black Friday y una de ellas es Carrefour, que tiene ya descuentos en dispositivos de todo tipo. Una de las ofertas que ha llamado nuestra atención es la referente a este robot aspirador Xiaomi Robot Vacuum H40 , que ahora…",
+   "link": "https://www.xataka.com/seleccion/carrefour-se-adelanta-al-black-friday-liquida-este-robot-aspirador-xiaomi-super-potente-tres-horas-autonomia",
+   "date": "2026-11-12T10:31:23+00:00"
+  },
+  {
+   "category": "Tecnología",
+   "source": "Xataka",
+   "title": "Un ucraniano construyó el hotel de sus sueños y entonces lo invadió Rusia. A Moscú le acaba de llegar una factura de 5,1 millones de dólares",
+   "summary": "Cuando Denys Katyukha era niño, pasaba los veranos con su abuelo en una pequeña localidad a orillas del mar de Azov. Allí soñó con construir algún día su propio hotel. Décadas después, aquel sueño se había convertido en un complejo turístico de 100 habitaciones, con piscina,…",
+   "link": "https://www.xataka.com/magnet/ucraniano-construyo-hotel-sus-suenos-entonces-invadio-rusia-a-moscu-le-acaba-llegar-factura-5-1-millones-dolares",
+   "date": "2026-11-12T10:31:23+00:00"
   },
   {
    "category": "Internacional",
    "source": "Infobae Mundo",
-   "title": "En Panamá un hombre quedó detenido por amenazar de muerte a su madre de 66 años y a su abuela de 90 años",
-   "summary": "Otro sujeto fue detenido al incautarle 469 paquetes de presunta cocaína y 83,20 gramos de marihuana, informaron las autoridades",
-   "link": "https://www.infobae.com/panama/2026/11/12/en-panama-un-hombre-quedo-detenido-por-amenazar-de-muerte-a-su-madre-de-66-anos-y-a-su-abuela-de-90-anos/",
-   "date": "2026-11-12T02:17:01+00:00"
+   "title": "Los enviados de Trump se reúnen con Putin en Moscú para avanzar en las negociaciones de paz en Ucrania",
+   "summary": "Los representantes estadounidenses Steve Witkoff y Jared Kushner llegaron a Moscú para encontrarse con el presidente ruso. Luego se trasladarán a Dublín, donde mantendrán un encuentro con Volodimir Zelensky, que participa en reuniones con líderes europeos",
+   "link": "https://www.infobae.com/america/mundo/2026/11/12/los-enviados-de-trump-se-reunen-con-putin-y-zelensky-para-avanzar-en-las-negociaciones-de-paz-tras-las-conversaciones-en-abu-dhabi/",
+   "date": "2026-11-12T10:28:30+00:00"
+  },
+  {
+   "category": "Argentina",
+   "source": "La Nación",
+   "title": "Javier Milei y sus medidas, EN VIVO: “Argentina, faro de luz de Occidente”, dijo el Presidente tras la visita de León XIV",
+   "summary": "El minuto a minuto de las decisiones del jefe de Estado, las reacciones de la oposición y las declaraciones de los funcionarios",
+   "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-argentina-faro-de-luz-de-occidente-dijo-el-presidente-tras-la-nid12112026/",
+   "date": "2026-11-12T10:13:02+00:00"
+  },
+  {
+   "category": "Tecnología",
+   "source": "Xataka",
+   "title": "¡Últimas horas para participar en el sorteo de un calefactor Dreo 714S! Solo para miembros de Xataka Xtra",
+   "summary": "Todavía estás a tiempo. Mañana termina el sorteo de un Dreo Whole-Room Heater 714S valorado en 109,99 euros y reservado a los miembros de Xataka Xtra . Si todavía no formas parte de Xtra, puedes sumarte por solo 30 euros al año y acceder a sorteos exclusivos como este, a un…",
+   "link": "https://www.xataka.com/xataka-xtra/ultimas-horas-para-participar-sorteo-calefactor-dreo-714s-solo-para-miembros-xataka-xtra",
+   "date": "2026-11-12T10:01:24+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Olé",
+   "title": "Con dos jugadores de selección: el uno por uno del Banfield que buscará el pase ante Boca",
+   "summary": "El Taladro necesita una alegría en la Copa Argentina para maquillar un ciclo flojo. En Olé, repasamos las armas del equipo de Pedro Troglio.",
+   "link": "https://www.ole.com.ar/banfield/boca-banfield-semifinal-copa-argentina_0_T0CN0JdClu.html",
+   "date": "2026-11-12T10:00:21+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Olé",
+   "title": "El día que Troglio eliminó a Boca de la Copa Argentina",
+   "summary": "El entrenador de Banfield tiene la gran chance de dejar en el camino al Xeneize y avanzar a la gran final. En el 2018 ya venció a este gigante con GImnasia...",
+   "link": "https://www.ole.com.ar/banfield/banfield-copa-argentina-pedro-troglio-semifinal-boca-juniors-rodolfo-arruabarrena_0_q6K5Fnz7R6.html",
+   "date": "2026-11-12T10:00:21+00:00"
+  },
+  {
+   "category": "Economía",
+   "source": "Infobae Economía",
+   "title": "ANSES: quiénes cobran hoy, jueves 12 de noviembre de 2026",
+   "summary": "El organismo previsional continúa con el calendario de pagos de noviembre para jubilados, pensionados y titulares de asignaciones, según la terminación del DNI",
+   "link": "https://www.infobae.com/economia/2026/11/12/anses-quienes-cobran-hoy-jueves-12-de-noviembre-de-2026/",
+   "date": "2026-11-12T09:32:55+00:00"
+  },
+  {
+   "category": "Tecnología",
+   "source": "Xataka",
+   "title": "Las mejores ofertas de Amazon dos semanas antes del Black Friday, hoy 12 de noviembre",
+   "summary": "¿Cuándo empieza el Black Friday? Oficialmente, el día importante es el también llamado Viernes Negro que este año se celebrará el 27 de noviembre, pero como vimos en años anteriores las tiendas han comenzado a lanzar ofertas desde el primer día de noviembre . Amazon no se ha…",
+   "link": "https://www.xataka.com/seleccion/mejores-ofertas-amazon-dos-semanas-antes-black-friday-hoy-12-noviembre",
+   "date": "2026-11-12T09:31:48+00:00"
+  },
+  {
+   "category": "Tecnología",
+   "source": "Xataka",
+   "title": "Madrid ya tiene fecha para la apertura del nuevo parque comercial de Aranjuez: 50.000 m2 y un 100% de ocupación",
+   "summary": "Hubo un tiempo (hace no tanto) en que los centros comerciales se asomaban a un horizonte lleno de nubarrones . La expansión del comercio online, los cambios en el ocio y la resaca de la pandemia, con sus restricciones y el rechazo a las masificaciones, llevaron a algunos a…",
+   "link": "https://www.xataka.com/magnet/madrid-tiene-fecha-para-apertura-nuevo-parque-comercial-aranjuez-50-000-m2-100-ocupacion",
+   "date": "2026-11-12T09:08:24+00:00"
+  },
+  {
+   "category": "Tecnología",
+   "source": "Xataka",
+   "title": "La solución para disfrutar de iluminación inteligente sin obras ni enchufes extra la tiene Amazon por menos de 7 euros",
+   "summary": "Dar el primer paso hacia un hogar conectado suele generar dudas sobre instalaciones complejas, cables nuevos o desembolsos elevados en puentes de conexión. Sin embargo, modernizar las luces de una habitación resulta tan sencillo como cambiar una bombilla tradicional por una…",
+   "link": "https://www.xataka.com/seleccion/solucion-para-disfrutar-iluminacion-inteligente-obras-enchufes-extra-tiene-amazon-7-euros",
+   "date": "2026-11-12T09:01:49+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Clarín Deportes",
+   "title": "Justo Piccardo y el partido de Los Pumas contra Italia como una revancha: \"Queremos salir a dar la cara y a demostrar\"",
+   "summary": "El centro reconoció los errores del equipo, pero se planta y destaca aspectos positivos. En una charla con Clarín habló de su rol como jugador híbrido, el crecimiento personal y el presente de la Selección Argentina.",
+   "link": "https://www.clarin.com/deportes/justo-piccardo-partido-pumas-italia-revancha-queremos-salir-dar-cara-demostrar_0_kbifdx1ign.html",
+   "date": "2026-11-12T09:00:23+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Clarín Deportes",
+   "title": "La herencia de Lionel Messi en la Scaloneta: Enzo Fernández, el elegido para ser el nuevo líder del fútbol de la Selección Argentina",
+   "summary": "Está llamado a ser el cerebro del equipo en la nueva era que comienza el viernes contra Uruguay. El tándem con Mac Allister y la elección de Scaloni para que él sea el mediocampista \"box to box\".",
+   "link": "https://www.clarin.com/deportes/herencia-lionel-messi-scaloneta-enzo-fernandez-elegido-nuevo-lider-futbol-seleccion-argentina_0_p2b6va4s6n.html",
+   "date": "2026-11-12T09:00:23+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Clarín Deportes",
+   "title": "La carrera de los 146 goles: el récord de Cristiano Ronaldo que ahora persiguen Kane, Mbappé y Haaland",
+   "summary": "Con el retiro internacional de CR7, los principales artilleros de Europa inician la carrera por arrebatarle el título de máximo goleador de selecciones. Antes de alcanzar al portugués, deberán superar el escalón previo que dejó Lionel Messi con sus 126 festejos en Argentina.…",
+   "link": "https://www.clarin.com/deportes/carrera-146-goles-record-cristiano-ronaldo-ahora-persiguen-kane-mbappe-haaland_0_cJOjyycxrX.html",
+   "date": "2026-11-12T09:00:23+00:00"
+  },
+  {
+   "category": "Argentina",
+   "source": "Clarín",
+   "title": "El escándalo de la carpa VIP del Papa: la lista de Karina Milei y el faltazo de Santiago Caputo",
+   "summary": "La lista de invitados del Gobierno Nacional estuvo a cargo de la Secretaría General de la Presidencia, que conduce Karina Milei. Santiago Caputo fue invitado, pero decidió no asistir. El malestar entre los seguidores del estratega libertario y la polémica por la presencia de…",
+   "link": "https://www.clarin.com/politica/escandalo-carpa-vip-papa-lista-karina-milei-faltazo-santiago-caputo_0_ZnssImVMnb.html",
+   "date": "2026-11-12T09:00:22+00:00"
+  },
+  {
+   "category": "Argentina",
+   "source": "Clarín",
+   "title": "Juan Manuel Urtubey: \"En el peronismo somos responsables del desbarranco de Milei\"",
+   "summary": "El ex gobernador de Salta es el decimotercer invitado del ciclo audiovisual Cara a Cara de Clarín. Pide por la unidad del peronismo, critica al Gobierno y dice que Cristina \"mira para adelante y no para atrás\".",
+   "link": "https://www.clarin.com/politica/juan-manuel-urtubey-peronismo-responsables-desbarranco-milei_0_LtViwosCpj.html",
+   "date": "2026-11-12T09:00:21+00:00"
+  },
+  {
+   "category": "Economía",
+   "source": "Clarín Economía",
+   "title": "La pobreza dio un salto y ya alcanza a casi 10 millones de personas, según un trabajo privado",
+   "summary": "El relavamiento estuvo a cargo de la Universidad Di Tella, que muestra que entre abril y septiembre se ubicó en el 33%. Es un incremento interanual de 3,2 puntos.",
+   "link": "https://www.clarin.com/economia/pobreza-dio-salto-alcanza-10-millones-personas-trabajo-privado_0_c6msx7TDCI.html",
+   "date": "2026-11-12T09:00:21+00:00"
+  },
+  {
+   "category": "Economía",
+   "source": "Clarín Economía",
+   "title": "Paradoja exportadora: 6 de cada 10 empresas argentinas quieren salir al exterior pero los frena la inflación y el cepo",
+   "summary": "Según un estudio privado, las compañías locales encuentran impedimentos a la hora de intentar ganar mercados externos. Cuáles son los destinos más buscados.",
+   "link": "https://www.clarin.com/economia/paradoja-exportadora-6-10-empresas-argentinas-quieren-salir-exterior-frena-inflacion-cepo_0_CS4UWvg20n.html",
+   "date": "2026-11-12T09:00:20+00:00"
+  },
+  {
+   "category": "Economía",
+   "source": "Clarín Economía",
+   "title": "Otro bazar chino llega a la Argentina: Mumuso abrirá locales y competirá con Miniso",
+   "summary": "La cadena de origen chino e inspiración coreana prepara su desembarco en el país con un modelo similar al de Miniso. Negocia con centros comerciales para sus primeras aperturas en shoppings del AMBA. La segunda etapa de expansión contempla franquicias en el Interior.",
+   "link": "https://www.clarin.com/economia/bazar-chino-llega-argentina-mumuso-abrira-locales-competira-miniso_0_QGbD5fJcls.html",
+   "date": "2026-11-12T09:00:20+00:00"
+  },
+  {
+   "category": "Argentina",
+   "source": "Clarín",
+   "title": "\"El Congreso es un nido de ratas\": hicieron una encuesta por la visita del Papa y ganó una frase muy polémica",
+   "summary": "Es el último estudio nacional de la consultora QSocial. Preguntó por varias definiciones de la nueva derecha y la doctrina de la Iglesia. Los datos más sorprendentes.",
+   "link": "https://www.clarin.com/politica/congreso-nido-ratas-hicieron-encuesta-visita-papa-gano-frase-polemica_0_heNgEmrdHA.html",
+   "date": "2026-11-12T09:00:19+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Olé",
+   "title": "Partidos de HOY, jueves 12 de noviembre: horario y por dónde ver fútbol EN VIVO",
+   "summary": "Estudiantes e Independiente Rivadavia se enfrentarán por la Supercopa Argentina, en una jornada que también tendrá acción en la UEFA Nations League.",
+   "link": "https://www.ole.com.ar/agenda-deportiva/partidos-hoy-jueves-12-noviembre-2026-agenda-ole-horario-ver-futbol-vivo-online_0_0Wx6VncMZu.html",
+   "date": "2026-11-12T09:00:19+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Clarín Deportes",
+   "title": "Diego Milito encara la reestructuración de Racing para 2027: la posible salida de Sebastián Saja, el nuevo entrenador y los refuerzos",
+   "summary": "El presidente tiene claro que el año fue \"muy malo\" y hará cambios para la próxima temporada. Uno de ellos sería reemplazar al secretario técnico. Suenan varios nombres para hacerse cargo del banco. Guillermo Barros Schelotto, Nicolás Diez y Mauricio Pellegrino, todos con…",
+   "link": "https://www.clarin.com/deportes/diego-milito-encara-reestructuracion-racing-2027-posible-salida-sebastian-saja-nuevo-entrenador-refuerzos_0_ngQfy4xIAc.html",
+   "date": "2026-11-12T09:00:18+00:00"
   },
   {
    "category": "Internacional",
    "source": "Infobae Mundo",
-   "title": "La presunta espía china Alice Huang regresó a Beijing en medio de la polémica por el caso Nvidia y su CEO",
-   "summary": "Las fuentes consultadas por Bloomberg señalaron que la empresaria se encuentra en la capital china con conocimiento de las autoridades de seguridad, aunque no precisaron cuándo llegó, los motivos de su traslado ni las actividades que realiza allí",
-   "link": "https://www.infobae.com/america/mundo/2026/11/12/la-presunta-espia-china-alice-huang-regreso-a-beijing-en-medio-de-la-polemica-por-el-caso-nvidia-y-su-ceo/",
-   "date": "2026-11-12T02:16:13+00:00"
+   "title": "Un estudio afirma que el fenómeno de El Niño puede provocar más de 107.000 muertes adicionales por calor al año",
+   "summary": "Investigadores de ISGlobal examinaron datos demográficos de cuatro décadas. América del Sur encabezó el incremento de fallecimientos vinculados a las altas temperaturas, por encima de los índices observados en África subsahariana y el sudeste asiático",
+   "link": "https://www.infobae.com/america/mundo/2026/11/12/un-estudio-afirma-que-el-fenomeno-de-el-nino-puede-provocar-mas-de-107000-muertes-adicionales-por-calor-al-ano/",
+   "date": "2026-11-12T09:00:01+00:00"
   },
   {
    "category": "Internacional",
    "source": "Infobae Mundo",
-   "title": "Las autoridades de salud hacen un llamado a los panameños a convertirse en donantes voluntarios para salvar vidas",
-   "summary": "Avances en esta materia conviven con desafíos como la prevalencia de mitos y la necesidad de fortalecer los marcos jurídicos relativos a los donantes fallecidos",
-   "link": "https://www.infobae.com/panama/2026/11/12/las-autoridades-de-salud-hacen-un-llamado-a-los-panamenos-a-convertirse-en-donantes-voluntarios-para-salvar-vidas/",
-   "date": "2026-11-12T02:13:11+00:00"
+   "title": "La ciudad de Tokio instala contenedores inteligentes para controlar la basura turística",
+   "summary": "El gobierno local ubicó 22 depósitos autónomos en las calles del distrito comercial de Akihabara, con 10 que comprimen desechos mediante energía solar. La disposición busca mitigar los desperdicios derivados del flujo récord de viajeros internacionales",
+   "link": "https://www.infobae.com/america/mundo/2026/11/12/la-ciudad-de-tokio-instala-contenedores-inteligentes-para-controlar-la-basura-turistica/",
+   "date": "2026-11-12T09:00:01+00:00"
   },
   {
    "category": "Internacional",
    "source": "Infobae Mundo",
-   "title": "Dos gobernadores fuera del cargo en menos de 48 horas: lo que el régimen cubano no explicó sobre los relevos",
-   "summary": "El Ejecutivo cubrió ambas ausencias con los vicegobernadores Juana Yamilka Viñals Suárez y Yennis León Mayedo, mientras inicia los procedimientos para elegir a los titulares definitivos en cada provincia",
-   "link": "https://www.infobae.com/cuba/2026/11/12/dos-gobernadores-fuera-del-cargo-en-menos-de-48-horas-lo-que-el-regimen-cubano-no-explico-sobre-los-relevos/",
-   "date": "2026-11-12T02:09:05+00:00"
+   "title": "Qué es el resorte natural, el misterio de la elasticidad humana que desconcertó a la ciencia por 50 años",
+   "summary": "Un grupo de bioingenieros estadounidenses utilizó supercomputadoras para analizar qué permite expandir y contraer tejidos clave en cada latido o respiración. El hallazgo redefine las bases del envejecimiento orgánico y promete transformar el diseño de materiales médicos",
+   "link": "https://www.infobae.com/salud/ciencia/2026/11/12/que-es-el-resorte-natural-el-misterio-de-la-elasticidad-humana-que-desconcerto-a-la-ciencia-por-50-anos/",
+   "date": "2026-11-12T09:00:01+00:00"
   },
   {
    "category": "Internacional",
    "source": "Infobae Mundo",
-   "title": "Muere Leonardo Perucci, el actor chileno que llegó a Costa Rica por 20 días y terminó convirtiéndose en una figura de la televisión nacional",
-   "summary": "El reconocido intérprete y presentador falleció a los 87 años tras enfrentar complicaciones de salud. Llegó al país en 1979, después de exiliarse de Chile por el golpe militar, y construyó una trayectoria de casi cinco décadas en el teatro, el cine y la televisión costarricense.",
-   "link": "https://www.infobae.com/costa-rica/2026/11/12/muere-leonardo-perucci-el-actor-chileno-que-llego-a-costa-rica-por-20-dias-y-termino-convirtiendose-en-una-figura-de-la-television-nacional/",
-   "date": "2026-11-12T02:07:29+00:00"
+   "title": "Entre castillos intactos y tabernas históricas: 5 villas medievales europeas que brillan en invierno",
+   "summary": "Una selección difundida por The Telegraph reúne antiguos cascos urbanos con murallas de piedra, gastronomía tradicional y hospedajes de época. Con la llegada del frío, estos destinos se convierten en auténticas joyas escondidas del turismo",
+   "link": "https://www.infobae.com/america/mundo/2026/11/12/entre-castillos-intactos-y-tabernas-historicas-5-villas-medievales-europeas-que-brillan-en-invierno/",
+   "date": "2026-11-12T09:00:01+00:00"
+  },
+  {
+   "category": "Tecnología",
+   "source": "Xataka",
+   "title": "La noche en que Francia descubrió que para encender una bombilla necesitaba antes un ejército de leñadores armados con motosierras",
+   "summary": "En noviembre de 1982, Francia tenía una red eléctrica que era la envidia de Europa, millones de árboles y una industria forestal que llevaba décadas creciendo sin parar. Nadie imaginaba que aquellos tres elementos estaban a punto de protagonizar una de las mayores catástrofes…",
+   "link": "https://www.xataka.com/magnet/1982-francia-tenia-millones-arboles-red-electrica-moderna-fin-semana-precedentes-les-devolvio-a-edad-media",
+   "date": "2026-11-12T08:30:00+00:00"
+  },
+  {
+   "category": "Argentina",
+   "source": "Infobae",
+   "title": "Temores internos por una ruptura con Bullrich y la PASO vuelve como fantasma en la Cámara alta",
+   "summary": "En el bullrichismo están en modo defensivo, pero aseguran que no darán ningún paso aún. En la Casa Rosada crece el malestar con la ex PRO y en el bloque libertario del Senado, como en Diputados, presagian una ruptura que complique sus propias carreras y la agenda del…",
+   "link": "https://www.infobae.com/politica/2026/11/12/temores-internos-por-una-ruptura-con-bullrich-y-la-paso-vuelve-como-fantasma-en-la-camara-alta/",
+   "date": "2026-11-12T08:12:56+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Clarín Deportes",
+   "title": "La hoja de ruta de Boca para la seguidilla de partidos clave: Banfield, Atlético Mineiro e Independiente Rivadavia",
+   "summary": "El campeón de la Tabla Anual tendrá tres choques decisivos en 15 días: la semi de la Copa Argentina, la final de la Sudamericana y el debut en los playoffs del Torneo Clausura. La buena noticia que recibió Rodolfo Arruabarrena.",
+   "link": "https://www.clarin.com/deportes/hoja-ruta-boca-seguidilla-partidos-clave-banfield-atletico-mineiro-independiente-rivadavia_0_FhBhk6p8F6.html",
+   "date": "2026-11-12T08:04:17+00:00"
+  },
+  {
+   "category": "Tecnología",
+   "source": "Xataka",
+   "title": "La cúpula de Nvidia se prepara para destituir a Jensen Huang tras descubrirse una segunda infidelidad, según el WSJ",
+   "summary": "Jensen Huang ha pasado de ser quien personificaba el pegamento de la IA a convertirse en alguien que pronto podría tener que empezar a buscar un nuevo trabajo. Durante el día de ayer, las acciones de Nvidia cayeron más de un 8% , un movimiento impulsado por una exclusiva de…",
+   "link": "https://www.xataka.com/empresas-y-economia/cupula-nvidia-se-prepara-para-destituir-a-jensen-huang-descubrirse-segunda-infidelidad-wsj",
+   "date": "2026-11-12T07:55:00+00:00"
   },
   {
    "category": "Internacional",
    "source": "Infobae Mundo",
-   "title": "Gobierno de Guatemala anuncia entrega próxima de ayuda humanitaria para familias afectadas por la sequía",
-   "summary": "El plan de respuesta por sequía dispone de 500 millones de quetzales para comprar 571.000 raciones. La partida cubrirá a familias de 210 municipios, con apoyo del Programa Mundial de Alimentos como proveedor, mientras la continuidad mensual durante seis meses dependerá de…",
-   "link": "https://www.infobae.com/guatemala/2026/11/12/gobierno-de-guatemala-anuncia-entrega-proxima-de-ayuda-humanitaria-para-familias-afectadas-por-la-sequia/",
-   "date": "2026-11-12T02:06:23+00:00"
+   "title": "La transparencia de las finanzas del Vaticano, el gran desafío del papa León XIV",
+   "summary": "El pontífice aprobó una reforma del organismo encargado de prevenir el lavado de dinero, identificar operaciones sospechosas y fiscalizar las actividades económicas sujetas a las normas de la Santa Sede",
+   "link": "https://www.infobae.com/america/opinion/2026/11/12/la-transparencia-de-las-finanzas-del-vaticano-el-gran-desafio-del-papa-leon-xiv/",
+   "date": "2026-11-12T07:00:00+00:00"
   },
   {
    "category": "Internacional",
    "source": "Infobae Mundo",
-   "title": "El militar guatemalteco acusado de secuestros y ejecuciones que murió antes de enfrentar la justicia: la Panel Blanca, 11 víctimas y un juicio que nunca llegó",
-   "summary": "Clodoveo Domínguez de León falleció por causas naturales la noche del 10 de noviembre en Suchitepéquez. Su deceso extingue la persecución penal sin que los jueces emitieran una resolución de fondo sobre su responsabilidad",
-   "link": "https://www.infobae.com/guatemala/2026/11/12/el-militar-guatemalteco-acusado-de-secuestros-y-ejecuciones-que-murio-antes-de-enfrentar-la-justicia-la-panel-blanca-11-victimas-y-un-juicio-que-nunca-llego/",
-   "date": "2026-11-12T02:04:40+00:00"
+   "title": "Demócratas y republicanos: almas partidas",
+   "summary": "Nuevas opciones, promesas consolidadas y la convicción de que ambos partidos necesitan un candidato-estrella que supere el paradigma actual",
+   "link": "https://www.infobae.com/america/opinion/2026/11/12/democratas-y-republicanos-almas-partidas/",
+   "date": "2026-11-12T07:00:00+00:00"
+  },
+  {
+   "category": "Argentina",
+   "source": "La Nación",
+   "title": "El líder tímido que transformó el ánimo colectivo",
+   "summary": "León XIV ejerce un liderazgo más eficaz y transparente que el de los políticos; la nueva crisis de representación que quedó expuesta en la Argentina",
+   "link": "https://www.lanacion.com.ar/politica/un-liderazgo-mas-eficaz-y-transparente-que-el-de-los-politicos-nid11112026/",
+   "date": "2026-11-12T06:51:43+00:00"
   },
   {
    "category": "Internacional",
    "source": "Infobae Mundo",
-   "title": "Matan de 16 disparos a una mujer dentro de su casa en Honduras",
-   "summary": "Sandra Lorena Cruz, de aproximadamente 48 años, fue atacada frente a sus familiares en la comunidad de Nombre de Jesús, Olanchito, Yoro. La víctima murió minutos después de ingresar al hospital debido a la gravedad de las heridas.",
-   "link": "https://www.infobae.com/honduras/2026/11/12/matan-de-16-disparos-a-una-mujer-dentro-de-su-casa-en-honduras/",
-   "date": "2026-11-12T02:03:22+00:00"
+   "title": "Las bolsas asiáticas sufren el impacto del escándalo que rodea a Nvidia mientras tambalean los principales índices regionales",
+   "summary": "Los mercados bursátiles registraron avances en Corea del Sur, Taiwán y Japón, mientras el indicador MSCI sin Tokio descendió 0,1% debido a las pérdidas de las cotizadas en Hong Kong",
+   "link": "https://www.infobae.com/america/mundo/2026/11/12/las-bolsas-asiaticas-sufren-el-impacto-del-escandalo-que-rodea-a-nvidia-mientras-tambalean-los-principales-indices-regionales/",
+   "date": "2026-11-12T06:40:32+00:00"
   },
   {
    "category": "Internacional",
    "source": "Infobae Mundo",
-   "title": "Arrestan a hondureño por amenaza de bomba en un avión en EEUU",
-   "summary": "Rony Alexander Gómez-Alberto habría intentado ingresar a la cabina de mando de una aeronave que cubría la ruta entre Nueva Jersey y Nueva Orleans. Tras aterrizar, fue trasladado a un centro correccional de Luisiana, donde enfrenta cargos relacionados con amenazas y una falsa…",
-   "link": "https://www.infobae.com/honduras/2026/11/12/arrestan-a-hondureno-por-amenaza-de-bomba-en-un-avion-en-eeuu/",
-   "date": "2026-11-12T02:01:53+00:00"
+   "title": "La presunta amante china del CEO de Nvidia, Alice Huang, ingresó ocho veces a Taiwán en un período de dos años",
+   "summary": "Así lo confirmó un funcionario del Gobierno taiwanés, quien sostuvo ante el Parlamento que la ex ejecutiva de Megaspeed accedió con documentación hongkonesa bajo el régimen regular para visitantes de negocios",
+   "link": "https://www.infobae.com/america/mundo/2026/11/12/la-presunta-amante-china-del-ceo-de-nvidia-alice-huang-ingreso-ocho-veces-a-taiwan-en-un-periodo-de-dos-anos/",
+   "date": "2026-11-12T06:38:01+00:00"
   },
   {
    "category": "Internacional",
    "source": "Infobae Mundo",
-   "title": "Con un tercio de sus obispos forzados al exilio, el episcopado nicaragüense renueva su directiva",
-   "summary": "El religioso de Granada reemplaza a Carlos Enrique Herrera, expulsado en noviembre de 2024, en una junta que conserva al cardenal Leopoldo Brenes como vicepresidente y fue elegida durante la asamblea de 2026 en Managua",
-   "link": "https://www.infobae.com/nicaragua/2026/11/12/con-un-tercio-de-sus-obispos-forzados-al-exilio-el-episcopado-nicaraguense-renueva-su-directiva/",
-   "date": "2026-11-12T02:00:33+00:00"
+   "title": "La OTAN aseguró que Europa y Ucrania están en la misma línea de EEUU respecto a las negociaciones de paz con Rusia",
+   "summary": "",
+   "link": "https://www.infobae.com/america/mundo/2026/11/12/la-otan-aseguro-que-europa-y-ucrania-estan-en-la-misma-linea-de-eeuu-respecto-a-las-negociaciones-de-paz-con-rusia/",
+   "date": "2026-11-12T06:36:34+00:00"
+  },
+  {
+   "category": "Internacional",
+   "source": "Infobae Mundo",
+   "title": "El líder del grupo terrorista Hezbollah aseguró estar dispuesto a negociar armamento si Israel abandona el Líbano",
+   "summary": "Naim Qassem afirmó que la milicia chiíta aceptaría abordar la situación de su arsenal únicamente cuando termine “la ocupación” israelí, durante un homenaje televisado a los fallecidos en los enfrentamientos",
+   "link": "https://www.infobae.com/america/mundo/2026/11/12/el-lider-del-grupo-terrorista-hezbollah-aseguro-estar-dispuesto-a-negociar-armamento-si-israel-abandona-el-libano/",
+   "date": "2026-11-12T06:35:14+00:00"
+  },
+  {
+   "category": "Tecnología",
+   "source": "Xataka",
+   "title": "El nuevo cubo de basura doble de Lidl es ideal para reciclar en casa y evitar los malos olores en la cocina",
+   "summary": "Reciclar y tener un cubo separado para cada tipo de basura es algo que deberíamos tener todos en casa. El problema es que esto implica más espacio y puede llegar a ser poco práctico en el día a día. Una solución a esto es tener un cubo de basura con doble compartimento y este…",
+   "link": "https://www.xataka.com/seleccion/nuevo-cubo-basura-doble-lidl-ideal-para-reciclar-casa-evitar-malos-olores-cocina",
+   "date": "2026-11-12T06:15:49+00:00"
+  },
+  {
+   "category": "Economía",
+   "source": "Infobae Economía",
+   "title": "Licitación clave: el equipo económico se entusiasma por el regreso del “punto Anker” y espera un repunte del crédito",
+   "summary": "Los bancos renovaron menos de lo que vencía y el Gobierno hay expectativa de una mayor remonetización de la economía. La estabilidad cambiaria también ayuda en medio del repunte del riesgo país",
+   "link": "https://www.infobae.com/economia/2026/11/12/licitacion-clave-el-equipo-economico-se-entusiasma-por-el-regreso-del-punto-anker-y-espera-un-repunte-del-credito/",
+   "date": "2026-11-12T06:01:32+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Olé",
+   "title": "Nashville SC, el equipo que hizo historia en la MLS y que tiene un argentino clave en el sueño del título",
+   "summary": "El equipo de Tennessee rompió varios récords y va por todo. Cristian Espinoza, pieza importante de un proyecto que apunta alto.",
+   "link": "https://www.ole.com.ar/futbol-internacional/mls/nashville-record-puntos-mls-equipo-sensacion-espinoza-playoffs_0_YL3ClcP8yF.html",
+   "date": "2026-11-12T05:05:26+00:00"
+  },
+  {
+   "category": "Economía",
+   "source": "Infobae Economía",
+   "title": "Hoy se conoce el dato de inflación de octubre: qué número esperan los especialistas",
+   "summary": "Este jueves, el Indec publicará cuánto fue el aumento promedio de precios el mes pasado. Los privados detectaron presiones en alimentos y en hoteles y restaurante que podrían llevar a ubicar el IPC apenas debajo del 2 por ciento",
+   "link": "https://www.infobae.com/economia/2026/11/12/hoy-se-conoce-el-dato-de-inflacion-de-octubre-que-numero-esperan-los-especialistas/",
+   "date": "2026-11-12T04:54:46+00:00"
+  },
+  {
+   "category": "Economía",
+   "source": "Infobae Economía",
+   "title": "Casi el 70% de las empresas argentinas que solo operan en el país proyectan exportar en los próximos tres años",
+   "summary": "El relevamiento lo realizó Santander a más de 6.000 compañías de Europa y América. El 55% de las entrevistadas en el país esperan elevar su facturación en 12 meses",
+   "link": "https://www.infobae.com/economia/2026/11/12/casi-el-70-de-las-empresas-argentinas-que-solo-operan-en-el-pais-proyectan-exportar-en-los-proximos-tres-anos/",
+   "date": "2026-11-12T04:54:28+00:00"
+  },
+  {
+   "category": "Economía",
+   "source": "Infobae Economía",
+   "title": "Alerta en el Mercosur: los autos chinos desplazan a la producción regional y cae el comercio entre Argentina y Brasil",
+   "summary": "Las exportaciones argentinas al mercado brasileño bajaron 7,8%, mientras que las ventas en sentido inverso también retrocedieron. El fuerte crecimiento de las importaciones asiáticas encendió las alarmas en las automotrices de ambos países",
+   "link": "https://www.infobae.com/economia/2026/11/12/alerta-en-el-mercosur-los-autos-chinos-desplazan-a-la-produccion-regional-y-cae-el-comercio-entre-argentina-y-brasil/",
+   "date": "2026-11-12T04:54:09+00:00"
+  },
+  {
+   "category": "Economía",
+   "source": "Infobae Economía",
+   "title": "Ranking de precios en dólares: en qué rubros la Argentina está más cara que la región",
+   "summary": "En agosto, los precios de Argentina en dólares se abarataron 0,3% frente al promedio de América Latina, aunque el país todavía resulta 3% más caro que al inicio del gobierno de Javier Milei",
+   "link": "https://www.infobae.com/economia/2026/11/12/ranking-de-precios-en-dolares-en-que-rubros-la-argentina-esta-mas-cara-que-la-region/",
+   "date": "2026-11-12T04:53:41+00:00"
+  },
+  {
+   "category": "Economía",
+   "source": "Infobae Economía",
+   "title": "Los bonos recuperan terreno y baja el riesgo país, pero octubre de 2027 mantiene al mercado en alerta",
+   "summary": "La licitación del Tesoro dejó pesos disponibles y consolidó la preferencia por instrumentos de corto plazo. Las dudas electorales, la debilidad de la recaudación y las señales externas condicionan las decisiones de los inversores",
+   "link": "https://www.infobae.com/economia/2026/11/12/los-bonos-recuperan-terreno-y-baja-el-riesgo-pais-pero-octubre-de-2027-mantiene-al-mercado-en-alerta/",
+   "date": "2026-11-12T04:52:58+00:00"
+  },
+  {
+   "category": "Argentina",
+   "source": "Infobae",
+   "title": "Neuquén: tras la confirmación de la fecha de elecciones, comenzó el armado político de cara a 2027",
+   "summary": "El gobernador Rolando Figueroa fijó los comicios para el 14 de febrero. Aunque todavía no oficializó su candidatura, su intención de buscar la reelección es prácticamente un hecho. La Libertad Avanza apuesta a la senadora Nadia Márquez para disputar la gobernación, mientras…",
+   "link": "https://www.infobae.com/politica/2026/11/12/neuquen-tras-la-confirmacion-de-la-fecha-de-elecciones-comenzo-el-armado-politico-de-cara-a-2027/",
+   "date": "2026-11-12T04:47:08+00:00"
+  },
+  {
+   "category": "Argentina",
+   "source": "Infobae",
+   "title": "El Gobierno analiza un sorpresivo pedido de gremios y empresarios para retomar una mesa multisectorial",
+   "summary": "El tema fue abordado informalmente durante uno de los actos que encabezó León XIV en la Argentina, pero las autoridades nacionales no quieren que el espacio de diálogo sea utilizado por alguna de las partes para generar expectativa. Desconfianza en la CGT",
+   "link": "https://www.infobae.com/politica/2026/11/12/el-gobierno-analiza-un-sorpresivo-pedido-de-gremios-y-empresarios-para-retomar-una-mesa-multisectorial/",
+   "date": "2026-11-12T04:46:46+00:00"
+  },
+  {
+   "category": "Argentina",
+   "source": "Infobae",
+   "title": "El Gobierno celebra el acercamiento con la Iglesia tras la visita de León XIV y busca sostener el entendimiento",
+   "summary": "En Casa Rosada aseguran que la coordinación para la llegada del Papa permitió limar asperezas con algunos representantes de la institución. Los mensajes cruzados tras la partida del Santo Padre",
+   "link": "https://www.infobae.com/politica/2026/11/12/el-gobierno-celebra-el-acercamiento-con-la-iglesia-tras-la-visita-de-leon-xiv-y-busca-sostener-el-entendimiento/",
+   "date": "2026-11-12T04:46:29+00:00"
+  },
+  {
+   "category": "Argentina",
+   "source": "Infobae",
+   "title": "Nada cambia en el Gobierno tras la visita del Papa y Milei se enfrenta a los problemas que quedaron en pausa",
+   "summary": "León XIV no personalizó ni partidizó su mensaje. Pero sus homilías y sus discursos respiraron política y visibilizaron distintos asuntos públicos. Sin más hitos históricos en el horizonte, la política comienza la cuenta regresiva hacia el año electoral: la relación con…",
+   "link": "https://www.infobae.com/politica/2026/11/12/nada-cambia-en-el-gobierno-tras-la-visita-del-papa-y-milei-se-enfrenta-a-los-problemas-que-quedaron-en-pausa/",
+   "date": "2026-11-12T04:43:57+00:00"
+  },
+  {
+   "category": "Internacional",
+   "source": "BBC Mundo",
+   "title": "Sloviansk, la ciudad devastada del frente de batalla que Rusia quiere que Ucrania le entregue",
+   "summary": "La BBC logró acceder a una unidad especializada en drones que protege la ciudad de Sloviansk, en el este de Ucrania, de los constantes ataques de Rusia.",
+   "link": "https://www.bbc.com/mundo/articles/cqdj1ww3pd4lo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T04:32:43+00:00"
+  },
+  {
+   "category": "Argentina",
+   "source": "Infobae",
+   "title": "Súper RIGI: el Gobierno no define el reclamo de aliados y la iniciativa sigue sin dictamen en el Senado",
+   "summary": "Desde hace más de dos meses que dialoguistas frenaron la firma de un despacho. Buscan ampliar el término “precio/calidad” para amortiguar importaciones que se expanden e impactan en el vigente RIGI. El Ministerio de Economía dio indicios de querer acercar posiciones el mes…",
+   "link": "https://www.infobae.com/politica/2026/11/12/super-rigi-el-gobierno-no-define-el-reclamo-de-aliados-y-la-iniciativa-sigue-sin-dictamen-en-el-senado/",
+   "date": "2026-11-12T04:30:17+00:00"
+  },
+  {
+   "category": "Internacional",
+   "source": "BBC Mundo",
+   "title": "Por qué hundieron frente a la costa de Florida al mítico SS United States, el que fuera el transatlántico más rápido del mundo",
+   "summary": "Activistas lucharon sin éxito para que el histórico transatlántico, que cruzó el océano Atlántico cientos de veces, fuera preservado y convertido en museo.",
+   "link": "https://www.bbc.com/mundo/articles/c5lykgdkdlxlo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T04:08:41+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Infobae Deportes",
+   "title": "Cómo es la regla 50+1 que promueve la Bundesliga para que los socios no pierdan el control de los clubes: la diferencia con Argentina",
+   "summary": "“La cercanía entre el club y los grupos de aficionados es real. Tienen voz”, explican desde la entidad alemana sobre la capacidad de los hinchas para tener injerencia en las decisiones. El valor interno de considerarlos y la fórmula para mantener las entradas más baratas de…",
+   "link": "https://www.infobae.com/deportes/2026/11/12/como-es-la-regla-501-que-promueve-la-bundesliga-para-que-los-socios-no-pierdan-el-control-de-los-clubes-la-diferencia-con-argentina/",
+   "date": "2026-11-12T03:49:05+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Infobae Deportes",
+   "title": "Lo pusieron a la par de Maradona, no jugó en Primera y se retiró a los 25 años preso de sus adicciones: el “mejor futbolista que nadie vio”",
+   "summary": "Robin Friday fue un futbolista de culto, que se convirtió en leyenda del Reading y hasta le dedicaron varias canciones. Murió a los 38 años",
+   "link": "https://www.infobae.com/deportes/2026/11/12/lo-pusieron-a-la-par-de-maradona-no-jugo-en-primera-y-se-retiro-a-los-25-anos-preso-de-sus-adicciones-el-mejor-futbolista-que-nadie-vio/",
+   "date": "2026-11-12T03:47:49+00:00"
+  },
+  {
+   "category": "Argentina",
+   "source": "La Nación",
+   "title": "Ecos de una visita histórica: lo que dijo el Papa en la Argentina vs. lo que piensa Milei",
+   "summary": "",
+   "link": "https://www.lanacion.com.ar/politica/ecos-de-una-visita-historica-lo-que-dijo-el-papa-en-la-argentina-vs-lo-que-piensa-milei-nid12112026/",
+   "date": "2026-11-12T03:16:00+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Infobae Deportes",
+   "title": "Un periodista llamó “horrible” a la tenista Sabalenka sin saber que el micrófono estaba abierto y causó indignación en las redes",
+   "summary": "La cadena para la cual trabaja debió salir a pedir disculpas públicas tras la repercusión del comentario",
+   "link": "https://www.infobae.com/deportes/2026/11/12/un-periodista-llamo-horrible-a-la-tenista-sabalenka-sin-saber-que-el-microfono-estaba-abierto-y-causo-indignacion-en-las-redes/",
+   "date": "2026-11-12T03:11:50+00:00"
+  },
+  {
+   "category": "Argentina",
+   "source": "La Nación",
+   "title": "Los elegidos del Papa. Marcados por el abandono, la enfermedad o la tragedia, León reivindicó sus historias de lucha",
+   "summary": "",
+   "link": "https://www.lanacion.com.ar/politica/los-elegidos-del-papa-marcados-por-el-abandono-la-enfermedad-o-la-tragedia-leon-reivindico-sus-nid12112026/",
+   "date": "2026-11-12T03:10:00+00:00"
+  },
+  {
+   "category": "Deportes",
+   "source": "Infobae Deportes",
+   "title": "Dibu Martínez compartió un video con el imponente asado de la Selección: su menú especial por la fractura de mandíbula",
+   "summary": "El arquero argentino mostró su habitual recorrida por la parrilla y sorprendió con el plato que le prepararon",
+   "link": "https://www.infobae.com/deportes/2026/11/12/dibu-martinez-compartio-un-video-con-el-imponente-asado-de-la-seleccion-su-menu-especial-por-la-fractura-de-mandibula/",
+   "date": "2026-11-12T02:48:54+00:00"
   },
   {
    "category": "Deportes",
@@ -128,14 +520,6 @@
    "summary": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
    "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-asi-somos-imparables-dijo-quirno-sobre-la-visita-del-papa-nid11112026/",
    "date": "2026-11-12T01:13:49+00:00"
-  },
-  {
-   "category": "Argentina",
-   "source": "La Nación",
-   "title": "El líder tímido que transformó el ánimo colectivo",
-   "summary": "León XIV ejerce un liderazgo más eficaz y transparente que el de los políticos; la nueva crisis de representación que quedó expuesta en la Argentina",
-   "link": "https://www.lanacion.com.ar/politica/un-liderazgo-mas-eficaz-y-transparente-que-el-de-los-politicos-nid11112026/",
-   "date": "2026-11-12T01:05:04+00:00"
   },
   {
    "category": "Deportes",
@@ -250,14 +634,6 @@
    "date": "2026-11-12T00:00:00+00:00"
   },
   {
-   "category": "Deportes",
-   "source": "Olé",
-   "title": "Godoy Cruz-Tristán Suárez: el choque entre la máquina de hacer goles y una muralla récord",
-   "summary": "El Tomba y el Lechero definen el ascenso a Primera en un duelo vibrante entre la temible capacidad goleadora de Martín Pino y la defensa menos vencida de toda la divisional.",
-   "link": "https://www.ole.com.ar/futbol-ascenso/godoycruz-tristansuarez-primeranacional-final-martinpino-joaquinbigo_0_6MEImgr7BO.html",
-   "date": "2026-11-11T23:57:52+00:00"
-  },
-  {
    "category": "Argentina",
    "source": "Infobae",
    "title": "“El operativo más grande de nuestra historia”: Milei agradeció a las fuerzas de seguridad por el despliegue en la visita del Papa",
@@ -267,27 +643,11 @@
   },
   {
    "category": "Deportes",
-   "source": "Olé",
-   "title": "Video: el regalo de un hincha de Boca que llegó hasta el Papa",
-   "summary": "Una casaca del Xeneize apareció en el Papamóvil en otra de las recorridas de León XIV por la Argentina.",
-   "link": "https://www.ole.com.ar/boca-juniors/boca-papaleonxiv-argentina-estudiantesdelaplata-papamovil-xeneize-copalibertadores-cottolengodonorione-claypole-pincha-leonxiv-futbol-sumopontifice_0_sWt9z0DKil.html",
-   "date": "2026-11-11T23:41:22+00:00"
-  },
-  {
-   "category": "Deportes",
    "source": "Infobae Deportes",
    "title": "Se confirmó el cronograma de los octavos de final del Torneo Clausura: todo lo que hay que saber",
    "summary": "Ya está todo definido para el inicio de los playoffs que definirá al campeón del segundo semestre en Primera División",
    "link": "https://www.infobae.com/deportes/2026/11/11/se-confirmo-el-cronograma-de-los-octavos-de-final-del-torneo-clausura-todo-lo-que-hay-que-saber/",
    "date": "2026-11-11T23:40:46+00:00"
-  },
-  {
-   "category": "Deportes",
-   "source": "Olé",
-   "title": "La disputa por la fecha de River-Lanús, resuelta: cuándo y a qué hora se jugará",
-   "summary": "El cruce de octavos de final tuvo dos posturas muy marcadas. Cuál se impuso.",
-   "link": "https://www.ole.com.ar/river-plate/river-lanus-torneo-clausura-playoff-dia-hora-disputa-posturas-descanso-fecha-fifa_0_cXWz6MjExr.html",
-   "date": "2026-11-11T23:38:12+00:00"
   },
   {
    "category": "Deportes",
@@ -312,14 +672,6 @@
    "summary": "Con un seguimiento de la huelga dispar, los españoles protestaron este miércoles por la crisis de la vivienda y el alto costo de la vida en el país europeo.",
    "link": "https://www.bbc.com/mundo/articles/ckx28e5lj300o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-11T23:30:52+00:00"
-  },
-  {
-   "category": "Deportes",
-   "source": "Olé",
-   "title": "El primer 11 sin el Diez: el equipo que Scaloni prepara para Uruguay",
-   "summary": "La Selección probó variantes en Ezeiza con Julián Álvarez de arranque, dudas en el arco por Dibu Martínez y jóvenes como Nico Paz y Gianluca Prestianni.",
-   "link": "https://www.ole.com.ar/seleccion/seleccion-argentina-equipo-post-messi_0_DpzyGzisAj.html",
-   "date": "2026-11-11T23:30:49+00:00"
   },
   {
    "category": "Argentina",
@@ -370,14 +722,6 @@
    "date": "2026-11-11T22:54:58+00:00"
   },
   {
-   "category": "Deportes",
-   "source": "Clarín Deportes",
-   "title": "Pep Guardiola, el apuntado para reemplazar a Pochettino en la Selección de Estados Unidos: la cláusula millonaria que debería pagar Manchester United",
-   "summary": "Sin trabajo desde mayo, cuando dejó Manchester City, el técnico español aparece como el anhelo norteamericano. Si bien rechazó recientemente una oferta de Italia, la Federación se ilusiona con convencerlo gracias a su estrecho vínculo con el país.",
-   "link": "https://www.clarin.com/deportes/pep-guardiola-apuntado-reemplazar-pochettino-seleccion-estados-unidos-clausula-millonaria-deberia-pagar-manchester-united_0_aIsHMpOtdl.html",
-   "date": "2026-11-11T22:51:46+00:00"
-  },
-  {
    "category": "Economía",
    "source": "Infobae Economía",
    "title": "Licitación clave: el Gobierno renovó los vencimientos de deuda, pero inyectó pesos al mercado",
@@ -402,28 +746,12 @@
    "date": "2026-11-11T22:46:26+00:00"
   },
   {
-   "category": "Deportes",
-   "source": "Infobae Deportes",
-   "title": "Tiene 14 años, lo siguen desde Europa y es el jugador más joven del Mundial Sub 17: \"No siento presión\"",
-   "summary": "Dismas Shida Athanasi es la máxima promesa que lleva Tanzania a la cita juvenil, en la que compartirá el Grupo I con Brasil, Irlanda y Costa Rica",
-   "link": "https://www.infobae.com/deportes/2026/11/11/tiene-14-anos-lo-siguen-desde-europa-y-es-el-jugador-mas-joven-del-mundial-sub-17-no-siento-presion/",
-   "date": "2026-11-11T22:42:24+00:00"
-  },
-  {
    "category": "Economía",
    "source": "Infobae Economía",
    "title": "Privatizaciones: el Gobierno extendió las concesiones de las hidroeléctricas hasta 2027",
    "summary": "La administración nacional extendió la operación de cinco complejos hasta abril de 2027, mientras prepara los pliegos para transferir su administración al sector privado y garantizar el suministro eléctrico",
    "link": "https://www.infobae.com/economia/2026/11/11/privatizaciones-el-gobierno-extendio-las-concesiones-de-las-hidroelectricas-hasta-2027/",
    "date": "2026-11-11T22:21:20+00:00"
-  },
-  {
-   "category": "Deportes",
-   "source": "Infobae Deportes",
-   "title": "El peculiar homenaje a Maradona que inaugurarán en Napoli: “Quiero que todos puedan tocar el pie de Diego”",
-   "summary": "El “pie de oro” de Maradona tendrá un nuevo clon a metros del icónico mural de Pelusa en el Barrio Español. La historia detrás del molde que permitió eternizarlo",
-   "link": "https://www.infobae.com/deportes/2026/11/11/el-peculiar-homenaje-a-maradona-que-inauguraran-en-napoli-quiero-que-todos-puedan-tocar-el-pie-de-diego/",
-   "date": "2026-11-11T22:21:10+00:00"
   },
   {
    "category": "Argentina",
@@ -466,14 +794,6 @@
    "date": "2026-11-11T21:54:22+00:00"
   },
   {
-   "category": "Deportes",
-   "source": "Clarín Deportes",
-   "title": "Los Pumas y los errores que se repiten: las cinco fallas que explican la dura derrota contra Irlanda y por qué no terminan de hacer pie en el Nations Championship",
-   "summary": "Fragilidad defensiva, indisciplina, problemas de obtención, desconexiones y reacciones tardías son los principales déficits que preocupan a Contepomi y su cuerpo técnico. Los Pumas, conscientes de sus dificultades, buscarán corregir sus errores el sábado contra Italia y…",
-   "link": "https://www.clarin.com/deportes/pumas-errores-repiten-fallas-explican-dura-derrota-irlanda-terminan-hacer-pie-nations-championship_0_QRkFOiw3Ag.html",
-   "date": "2026-11-11T21:52:07+00:00"
-  },
-  {
    "category": "Argentina",
    "source": "La Nación",
    "title": "Las lágrimas de Javier Milei en el cierre de la gira histórica del papa León XIV en la Argentina",
@@ -482,28 +802,12 @@
    "date": "2026-11-11T21:51:00+00:00"
   },
   {
-   "category": "Economía",
-   "source": "Infobae Economía",
-   "title": "La Bolsa porteña cayó por cuarta rueda seguida y se mantiene la cautela sobre las acciones y los bonos argentinos",
-   "summary": "Wall Street negoció en alza en una sesión acotada por un feriado en EEUU, pero la tendencia no contagió a las acciones argentina. El MSCI Merval cedió 0,6%. El dólar siguió a $1.570 en el Banco Nación y el BCRA compró USD 29 millones en el mercado",
-   "link": "https://www.infobae.com/economia/2026/11/11/la-bolsa-portena-cayo-por-cuarta-rueda-seguida-y-se-mantiene-la-cautela-sobre-las-acciones-y-los-bonos-argentinos/",
-   "date": "2026-11-11T21:50:16+00:00"
-  },
-  {
    "category": "Argentina",
    "source": "Infobae",
    "title": "Qué figuras del peronismo asistieron en Luján a la misa que ofició el papa León XIV",
    "summary": "La dirigencia justicialista bonaerense, liderada por el gobernador Axel Kicillof y la vice Verónica Magario, presenció el masivo acto religioso frente a la Basílica. Máximo Kirchner y Sergio Massa también estuvieron presentes",
    "link": "https://www.infobae.com/politica/2026/11/11/la-plana-mayor-del-peronismo-converge-hoy-en-lujan-para-la-misa-que-oficiara-el-papa-leon-xiv/",
    "date": "2026-11-11T21:45:32+00:00"
-  },
-  {
-   "category": "Deportes",
-   "source": "Clarín Deportes",
-   "title": "Forlán, en la previa del clásico Uruguay contra Argentina: por qué lo eligió como rival y el \"no es amistoso\" de sus futbolistas",
-   "summary": "El DT por ahora interino de la Celeste dirigirá su cuarto encuentro tras la salida de Marcelo Bielsa. La última vez en La Bombonera, hubo cruces picantes entre los jugadores.",
-   "link": "https://www.clarin.com/deportes/forlan-previa-clasico-uruguay-argentina-eligio-rival-amistoso-futbolistas_0_8Ee7O0pd3P.html",
-   "date": "2026-11-11T21:45:21+00:00"
   },
   {
    "category": "Economía",
@@ -522,14 +826,6 @@
    "date": "2026-11-11T21:32:25+00:00"
   },
   {
-   "category": "Deportes",
-   "source": "Infobae Deportes",
-   "title": "Batalla campal en un hotel: los videos de la cruenta pelea entre estrellas de UFC que terminó con un detenido",
-   "summary": "Usman Nurmagomedov y su hermano Umar atacaron por sorpresa a Merab Dvalishvili en Abu Dhabi durante una entrevista, lo que desató golpes y patadas frente a las cámaras",
-   "link": "https://www.infobae.com/deportes/2026/11/11/batalla-campal-en-un-hotel-los-videos-de-la-cruenta-pelea-entre-estrellas-de-ufc-que-termino-con-un-detenido/",
-   "date": "2026-11-11T21:13:06+00:00"
-  },
-  {
    "category": "Economía",
    "source": "Clarín Economía",
    "title": "Cierra la única fábrica en una pequeña localidad de San Luis",
@@ -546,30 +842,6 @@
    "date": "2026-11-11T21:09:26+00:00"
   },
   {
-   "category": "Economía",
-   "source": "Infobae Economía",
-   "title": "Mercados: las acciones argentinas operaron dispares en una jornada con actividad limitada en Wall Street",
-   "summary": "El índice MSCI Merval de la Bolsa porteña cedió 0,6% después del receso por la visita del papa León XIV. El riesgo país quedó en 852 puntos, sin operatoria con títulos públicos en EEUU por la celebración del Día del Veterano de Guerra",
-   "link": "https://www.infobae.com/economia/2026/11/11/mercados-las-acciones-argentinas-operan-sin-cambios-en-una-jornada-con-actividad-limitada-en-wall-street/",
-   "date": "2026-11-11T21:06:09+00:00"
-  },
-  {
-   "category": "Deportes",
-   "source": "Infobae Deportes",
-   "title": "La brasileña Norma Dumont anunció su sorpresivo retiro de la UFC tras perder con la argentina Ailín Pérez: los motivos",
-   "summary": "Tras su derrota con la luchadora albiceste, comunicó que se desvinculará la de organización",
-   "link": "https://www.infobae.com/deportes/2026/11/11/la-brasilena-norma-dumont-anuncio-su-sorpresivo-retiro-de-la-ufc-tras-perder-con-la-argentina-ailin-perez-los-motivos/",
-   "date": "2026-11-11T21:01:43+00:00"
-  },
-  {
-   "category": "Argentina",
-   "source": "La Nación",
-   "title": "Irán declaró a la Armada y a la Fuerza Aérea como “organizaciones terroristas” y el Gobierno lo rechazó",
-   "summary": "Es una respuesta ante la inclusión de la Guardia Revolucionaria como “organización terrorista”; la Cancillería dijo que es una “acusación inadmisible”",
-   "link": "https://www.lanacion.com.ar/politica/el-gobierno-rechazo-la-decision-de-iran-de-declarar-a-la-armada-y-a-la-fuerza-aerea-como-nid11112026/",
-   "date": "2026-11-11T21:00:56+00:00"
-  },
-  {
    "category": "Argentina",
    "source": "Clarín",
    "title": "Cerca de Bullrich se desmarcaron del llamativo mensaje de Milei: \"Patricia no se da por aludida\"",
@@ -578,44 +850,12 @@
    "date": "2026-11-11T20:58:46+00:00"
   },
   {
-   "category": "Economía",
-   "source": "Infobae Economía",
-   "title": "Una multinacional estadounidense cerró su fábrica en San Luis y despidió a todos sus empleados",
-   "summary": "Stanley Black & Decker cesó la actividad en su fábrica de discos abrasivos en Justo Daract y dejó sin empleo a 61 personas. La pérdida de competitividad frente a los productos chinos y el achicamiento del mercado brasileño, entre las causas del cierre",
-   "link": "https://www.infobae.com/economia/2026/11/11/una-multinacional-estadounidense-cerro-su-fabrica-en-san-luis-y-despidio-a-todos-sus-empleados/",
-   "date": "2026-11-11T20:55:29+00:00"
-  },
-  {
    "category": "Argentina",
    "source": "Infobae",
    "title": "Nicolás Promanzio analizó la disputa con el Reino Unido por Malvinas y la nueva escalada diplomática con Irán",
    "summary": "En Infobae a la Tarde, el especialista en defensa explicó el reclamo ante el Tribunal del Mar y sostuvo que la decisión de Teherán es una represalia formal que no incrementa el riesgo de un ataque contra la Argentina",
    "link": "https://www.infobae.com/politica/2026/11/11/nicolas-promanzio-analizo-la-disputa-con-el-reino-unido-por-malvinas-y-la-nueva-escalada-diplomatica-con-iran/",
    "date": "2026-11-11T20:46:42+00:00"
-  },
-  {
-   "category": "Internacional",
-   "source": "BBC Mundo",
-   "title": "Por qué hunden frente a la costa de Florida al mítico SS United States, el que fuera el transatlántico más rápido del mundo",
-   "summary": "Activistas lucharon sin éxito para que el histórico transatlántico, que cruzó el océano Atlántico cientos de veces, fuera preservado y convertido en museo.",
-   "link": "https://www.bbc.com/mundo/articles/c5lykgdkdlxlo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-11T20:46:39+00:00"
-  },
-  {
-   "category": "Argentina",
-   "source": "La Nación",
-   "title": "La Argentina en busca de la brújula",
-   "summary": "A menos de un año para las próximas elecciones, las postales sociales dejan en evidencia una necesidad de representación que ninguna alternativa política logra encauzar",
-   "link": "https://www.lanacion.com.ar/politica/la-argentina-en-busca-de-la-brujula-nid11112026/",
-   "date": "2026-11-11T20:46:03+00:00"
-  },
-  {
-   "category": "Economía",
-   "source": "Infobae Economía",
-   "title": "El dólar bajó tras un largo receso y se profundiza la caída del tipo de cambio real",
-   "summary": "La divisa mayorista cedió a $1.544, tras cinco días sin operatoria por los feriados. Al público continuó ofrecido a $1.570 en el Banco Nación",
-   "link": "https://www.infobae.com/economia/2026/11/11/el-dolar-bajo-tras-un-largo-receso-y-se-profundiza-la-caida-del-tipo-de-cambio-real/",
-   "date": "2026-11-11T20:39:25+00:00"
   },
   {
    "category": "Argentina",
@@ -642,36 +882,12 @@
    "date": "2026-11-11T20:28:35+00:00"
   },
   {
-   "category": "Deportes",
-   "source": "Clarín Deportes",
-   "title": "Hasta siempre, \"Inglés\": Carlos Babington hizo hablar a la pelota en la era dorada de un fútbol argentino repleto de \"10\" de calidad",
-   "summary": "Fue el hombre clave de todos los hombres clave del inolvidable Huracán campeón del Metro 1973. No sólo le pegaba a la pelota como si jugara al billar; también gambeteaba. Lo hacía fácil. Compartió su época con Alonso, Bochini, Willington, Zanabria y Gómez, y jugó el Mundial…",
-   "link": "https://www.clarin.com/deportes/siempre-ingles-carlos-babington-hizo-hablar-pelota-dorada-futbol-argentino-repleto-10-calidad_0_vMzgggThHI.html",
-   "date": "2026-11-11T20:27:00+00:00"
-  },
-  {
    "category": "Economía",
    "source": "Clarín Economía",
    "title": "Tras lograr destrabar las exportaciones, un productor de Chaco hizo un nuevo envío de sandías a Uruguay",
    "summary": "Walter Detzel es tercera generación y logró exportar por segunda vez la fruta a Montevideo. Fue un camión cargado con 28.000 kilos de fruta.",
    "link": "https://www.clarin.com/rural/messi-sandia-hizo-nuevo-lograr-destrabar-exportaciones-recupero-mercados-hizo-nuevo-envio-apunta-generar-polo-productivo_0_IaXRELpM2L.html",
    "date": "2026-11-11T20:19:58+00:00"
-  },
-  {
-   "category": "Argentina",
-   "source": "La Nación",
-   "title": "Tras los dichos del Papa, el Gobierno defendió su gestión y aseguró que pone “la economía al servicio de las personas”",
-   "summary": "El vocero presidencial, Adrián Ravier, marcó las “coincidencias” entre las “ideas de la libertad” y la doctrina católica",
-   "link": "https://www.lanacion.com.ar/politica/tras-los-dichos-del-papa-el-gobierno-defendio-su-gestion-y-aseguro-que-pone-la-economia-al-servicio-nid11112026/",
-   "date": "2026-11-11T20:14:11+00:00"
-  },
-  {
-   "category": "Argentina",
-   "source": "La Nación",
-   "title": "Los mensajes que dejaron las palabras finales del Papa en suelo argentino y el regreso de un lema inesperado",
-   "summary": "",
-   "link": "https://www.lanacion.com.ar/politica/los-mensajes-que-dejaron-las-palabras-finales-del-papa-en-suelo-argentino-y-el-regreso-de-un-lema-nid11112026/",
-   "date": "2026-11-11T20:05:42+00:00"
   },
   {
    "category": "Argentina",
@@ -682,76 +898,12 @@
    "date": "2026-11-11T19:55:00+00:00"
   },
   {
-   "category": "Deportes",
-   "source": "Clarín Deportes",
-   "title": "Con la final de Boca y Atlético Mineiro por la Copa Sudamericana de por medio, ¿cuándo se juega River-Lanús por el Torneo Clausura?",
-   "summary": "El \"Millonario\" hizo un pedido de adelantar el choque para no sufrir el parate por la fecha FIFA, pero el \"Granate\" recibirá a un jugador clave después de una gira por Asia. El anuncio de la AFA sería en las próximas horas.",
-   "link": "https://www.clarin.com/deportes/final-boca-atletico-mineiro-copa-sudamericana-medio-juega-river-lanus-torneo-clausura_0_k6Q3kEFfoq.html",
-   "date": "2026-11-11T19:49:48+00:00"
-  },
-  {
-   "category": "Argentina",
-   "source": "Clarín",
-   "title": "La misa en la que el peronismo se sintió local, pero en la que también debió escuchar el mensaje de León XIV",
-   "summary": "El gobernador Axel Kicillof, senadores, diputados y decenas de intendentes estuvieron en las primeras filas. También Sergio Massa y Máximo Kirchner. Salieron todos juntos de un museo para ocupar sus lugares en la misa.",
-   "link": "https://www.clarin.com/politica/misa-peronismo-sintio-local-debio-escuchar-mensaje-leon-xiv_0_CipopmXOPi.html",
-   "date": "2026-11-11T19:48:56+00:00"
-  },
-  {
-   "category": "Economía",
-   "source": "Infobae Economía",
-   "title": "“A la gente que no tiene fe le cuesta procesar situaciones como las de estos días”: la reflexión de Caputo tras la visita del Papa",
-   "summary": "El ministro de Economía cuestionó las interpretaciones partidarias sobre los mensajes del Pontífice y destacó el carácter espiritual de su paso por el país",
-   "link": "https://www.infobae.com/economia/2026/11/11/a-la-gente-que-no-tiene-fe-le-cuesta-procesar-situaciones-como-las-de-estos-dias-la-reflexion-de-caputo-tras-la-visita-del-papa/",
-   "date": "2026-11-11T19:42:30+00:00"
-  },
-  {
-   "category": "Argentina",
-   "source": "Infobae",
-   "title": "Argentina terminó su defensa en el Tribunal del Mar y reclamó medidas urgentes para frenar el proyecto Sea Lion en Malvinas",
-   "summary": "“Es ahora o nunca”, plantearon los delegados del gobierno nacional durante la segunda y última jornada de audiencias en Hamburgo. La resolución del organismo internacional será el próximo 28 de noviembre. También se pidió al Reino Unido reanudar las negociaciones bilaterales",
-   "link": "https://www.infobae.com/politica/2026/11/11/argentina-y-el-reino-unido-cierran-sus-argumentos-ante-el-tribunal-del-mar-por-malvinas-cuando-llegaria-el-fallo/",
-   "date": "2026-11-11T19:41:09+00:00"
-  },
-  {
    "category": "Internacional",
    "source": "BBC Mundo",
    "title": "\"Un juez me ordenó por Zoom someterme a una cesárea mientras estaba pariendo en el hospital\"",
    "summary": "Mientras estaba pariendo, Cherise tuvo que asistir a una audiencia virtual con un juez de Florida, después de que el hospital decidiera que debían realizarle una cesárea.",
    "link": "https://www.bbc.com/mundo/articles/cv36ld8n4rpwo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-11T19:36:00+00:00"
-  },
-  {
-   "category": "Argentina",
-   "source": "Clarín",
-   "title": "León XIV advirtió que \"la impunidad es fruto de la corrupción\" ante jueces y funcionarios y siguió así una posición que abrió Francisco",
-   "summary": "Durante su visita a la Argentina alertó tres veces sobre los efectos negativos de la corrupción sobre la democracia y la confianza de la sociedad en sus dirigentes. Así avanzó en una línea con la que había empezado su predecesor cuando, en forma sutil, recomendó avanzar con…",
-   "link": "https://www.clarin.com/politica/leon-xiv-advirtio-impunidad-fruto-corrupcion-jueces-funcionarios-siguio-posicion-abrio-francisco_0_gd4Uo9Ipex.html",
-   "date": "2026-11-11T19:25:29+00:00"
-  },
-  {
-   "category": "Argentina",
-   "source": "Clarín",
-   "title": "\"Hay gente dispuesta a hundir el barco\": sugestivo mensaje de Milei en medio del conflicto del Gobierno con Patricia Bullrich",
-   "summary": "El Presidente publicó la frase en un posteo en Instagram durante la visita del Papa.",
-   "link": "https://www.clarin.com/politica/gente-dispuesta-hundir-barco-sugestivo-mensaje-milei-medio-conflicto-gobierno-patricia-bullrich_0_1f174QW9qW.html",
-   "date": "2026-11-11T19:23:49+00:00"
-  },
-  {
-   "category": "Argentina",
-   "source": "Infobae",
-   "title": "Fuerte rechazo del Gobierno a la decisión de Irán de nombrar terroristas a las Fuerzas Armadas argentinas",
-   "summary": "El régimen iraní designó con la categoría de “organizaciones terroristas” a la Armada, a la Fuerza Aérea, y excluyó al Ejercito. La respuesta oficial",
-   "link": "https://www.infobae.com/politica/2026/11/11/fuerte-rechazo-del-gobierno-a-la-decision-de-iran-de-nombrar-terroristas-a-las-fuerzas-armadas-argentinas/",
-   "date": "2026-11-11T19:21:04+00:00"
-  },
-  {
-   "category": "Argentina",
-   "source": "Infobae",
-   "title": "Condenaron a dos activistas de Camioneros por el bloqueo contra una empresa en Rosario, en un fallo que cuestiona esas protestas",
-   "summary": "El tribunal santafesino impuso dos años y tres meses de prisión en suspenso a los responsables de la protesta contra la empresa Razzini, que duró 90 días. Para los jueces, la huelga “no es impedir por la fuerza que otros trabajen, compren o vendan”",
-   "link": "https://www.infobae.com/politica/2026/11/11/condenaron-a-dos-activistas-de-camioneros-por-el-bloqueo-contra-una-empresa-en-rosario-en-un-fallo-que-cuestiona-esas-protestas/",
-   "date": "2026-11-11T19:20:59+00:00"
   },
   {
    "category": "Tecnología",
@@ -763,27 +915,11 @@
   },
   {
    "category": "Economía",
-   "source": "Infobae Economía",
-   "title": "Reunión reservada del papa León XIV con empresarios argentinos y diplomáticos: detalles del encuentro y la emoción de los presentes",
-   "summary": "Se desarrolló ayer, en la Nunciatura Apostólica, antes del encuentro con los jóvenes en Palermo. La medalla que obsequió el Santo Padre",
-   "link": "https://www.infobae.com/economia/2026/11/11/reunion-reservada-del-papa-leon-xiv-con-empresarios-argentinos-y-diplomaticos-detalles-del-encuentro-y-la-emocion-de-los-presentes/",
-   "date": "2026-11-11T19:15:33+00:00"
-  },
-  {
-   "category": "Economía",
    "source": "Ámbito",
    "title": "La inflación de octubre sería similar a la de septiembre y ya acumularía seis meses estancada en un mismo nivel",
    "summary": "Las estimaciones privadas ubican la suba de precios entre 1,8% y 2%. Los analistas advierten límites para retomar el sendero de desinflación.",
    "link": "https://www.ambito.com/economia/la-inflacion-octubre-seria-similar-la-septiembre-y-ya-acumularia-seis-meses-estancada-un-mismo-nivel-n6343939",
    "date": "2026-11-11T19:07:00+00:00"
-  },
-  {
-   "category": "Economía",
-   "source": "Infobae Economía",
-   "title": "Clima de Negocios: en medio del ruido financiero, los empresarios locales siguen de compras y miran atentos una norma del Gobierno",
-   "summary": "En un mercado atravesado por la salida de multinacionales, las privatizaciones y nuevas reglas de competencia, los grupos locales ganan protagonismo en las fusiones y adquisiciones. Adecoagro, GDN, Pérez Companc y otros empresarios aprovechan la ventana de oportunidad",
-   "link": "https://www.infobae.com/economia/2026/11/08/clima-de-negocios-en-medio-del-ruido-financiero-los-empresarios-locales-siguen-de-compras-y-miran-atentos-una-norma-del-gobierno/",
-   "date": "2026-11-11T19:00:18+00:00"
   },
   {
    "category": "Tecnología",
@@ -792,22 +928,6 @@
    "summary": "Probablemente preguntarle a un milmillonario porqué hay tanta gente enfadada con ellos y les ve como a los villanos de la película , sea parte del camino para encontrar una respuesta para un fenómeno que se ha intensificado en los últimos meses. Esa la pregunta que el…",
    "link": "https://www.xataka.com/empresas-y-economia/jeff-bezos-tiene-teoria-que-gente-odia-a-ricos-exito-no-sinonimo-maldad",
    "date": "2026-11-11T18:31:48+00:00"
-  },
-  {
-   "category": "Economía",
-   "source": "Infobae Economía",
-   "title": "Luego de la visita del Papa, la Asociación Empresaria Argentina exhortó al diálogo y al “fortalecimiento de los lazos de convivencia pacífica”",
-   "summary": "Las principales entidades empresarias del país adhirieron al mensaje de León XIV. AEA convocó a “todos los actores políticos, sociales y económicos” a transformar el llamado papal en “un impulso renovado hacia la concordia”",
-   "link": "https://www.infobae.com/economia/2026/11/11/luego-de-la-visita-del-papa-la-asociacion-empresaria-argentina-exhorto-al-dialogo-y-al-fortalecimiento-de-los-lazos-de-convivencia-pacifica/",
-   "date": "2026-11-11T18:30:52+00:00"
-  },
-  {
-   "category": "Argentina",
-   "source": "Infobae",
-   "title": "Axel Kicillof despliega sus embajadores en todo el litoral para consolidar su armado electoral",
-   "summary": "Durante las últimas semanas, referentes del gobernador bonaerense recorrieron Chaco, Entre Ríos y Corrientes para montar la estructura del MDF. Busca llegar al 2027 con un pie en cada provincia",
-   "link": "https://www.infobae.com/politica/2026/11/11/axel-kicillof-despliega-sus-embajadores-en-todo-el-litoral-para-consolidar-su-armado-electoral/",
-   "date": "2026-11-11T18:28:29+00:00"
   },
   {
    "category": "Internacional",
@@ -858,62 +978,6 @@
    "date": "2026-11-11T18:01:48+00:00"
   },
   {
-   "category": "Argentina",
-   "source": "Infobae",
-   "title": "“Esta es su casa”: Javier Milei se emocionó al saludar al papa León XIV en su despedida de la Argentina",
-   "summary": "El presidente no contuvo las lágrimas al tomar de las manos al Pontífice en la pista del Aeropuerto Internacional de Ezeiza antes de continuar su viaje a Perú",
-   "link": "https://www.infobae.com/politica/2026/11/11/esta-es-su-casa-javier-milei-se-emociono-al-saludar-al-papa-leon-xiv-en-su-despedida-de-la-argentina/",
-   "date": "2026-11-11T17:59:46+00:00"
-  },
-  {
-   "category": "Tecnología",
-   "source": "Xataka",
-   "title": "Móviles, electrodomésticos e incluso LEGOs: así son las mejores ofertas del 11-11 de Miravia",
-   "summary": "El 11-11 es conocido por todos como el Día del Soltero. En esta fecha, muchos marketplaces aprovechan la oportunidad para ofrecer algunos de los mejores descuentos de todo el año. Sin ir más lejos, Miravia ahora mismo está llevando a cabo algunos de los descuentos más…",
-   "link": "https://www.xataka.com/seleccion/moviles-electrodomesticos-e-incluso-legos-asi-mejores-ofertas-11-11-miravia",
-   "date": "2026-11-11T17:45:48+00:00"
-  },
-  {
-   "category": "Argentina",
-   "source": "Infobae",
-   "title": "El final de la visita de León XIV a la Argentina: una tregua necesaria y el desafío de evitar una interpretación facciosa de sus mensajes",
-   "summary": "Durante cuatro días, millones protagonizaron una masiva demostración de fe, emoción y convivencia. Los discursos del Papa abrieron una disputa entre el Gobierno y el peronismo, pero dejaron una reflexión profunda sobre la pobreza, el trabajo, la dignidad humana y la…",
-   "link": "https://www.infobae.com/politica/2026/11/11/el-final-de-la-visita-de-leon-xiv-a-la-argentina-una-tregua-necesaria-y-el-desafio-de-evitar-una-interpretacion-facciosa-de-sus-mensajes/",
-   "date": "2026-11-11T17:45:22+00:00"
-  },
-  {
-   "category": "Tecnología",
-   "source": "Xataka",
-   "title": "La salida a bolsa de Anthropic se estaba desinflando. Ahora tiene más demanda institucional que SpaceX",
-   "summary": "Anthropic ha fijado entre 70 y 78 dólares el precio de sus acciones para salir a bolsa. Eso la valora por entre 1,26 y 1,41 billones de dólares Hace unos meses se hablaba de dos billones, y hace una semana, de 1,5. Sin embargo, un día después, los bancos colocadores ya…",
-   "link": "https://www.xataka.com/empresas-y-economia/salida-a-bolsa-anthropic-se-estaba-desinflando-ahora-tiene-demanda-institucional-que-spacex",
-   "date": "2026-11-11T17:31:48+00:00"
-  },
-  {
-   "category": "Tecnología",
-   "source": "Xataka",
-   "title": "Lidl trae a su tienda online la chimenea eléctrica con efectos de llama que tiene varias temperaturas y un diseño muy decorativo",
-   "summary": "Lidl renueva su catálogo de Bazar con una velocidad bastante grande, y es que semanalmente va añadiendo nuevos productos para la casa. La tienda ha publicado su folleto para la semana que viene, y el 16 de noviembre tendrá de oferta la chimenea eléctrica Silvercrest por un…",
-   "link": "https://www.xataka.com/seleccion/lidl-trae-a-su-tienda-online-chimenea-electrica-efectos-llama-que-tiene-varias-temperaturas-diseno-muy-decorativo",
-   "date": "2026-11-11T17:15:48+00:00"
-  },
-  {
-   "category": "Tecnología",
-   "source": "Xataka",
-   "title": "Las cámaras de Ring ahora se mueven: Amazon entra en el mundo de los robots domésticos con un dron que vuela por el salón de casa",
-   "summary": "Amazon ha ganado fama con sus cámaras y timbres inteligentes Ring, pequeños dispositivos de seguridad que hacen bien su trabajo y que se caracterizaban por una cosa: estaban quietecitos en su sitio. Con Ring Robotics eso cambia a partir de ahora porque sus nuevos…",
-   "link": "https://www.xataka.com/robotica-e-ia/camaras-ring-ahora-se-mueven-amazon-entra-mundo-robots-domesticos-dron-que-vuela-salon-casa",
-   "date": "2026-11-11T17:01:49+00:00"
-  },
-  {
-   "category": "Tecnología",
-   "source": "Xataka",
-   "title": "Doblete de descuentos en el Xiaomi 17T, un gama alta asequible con cámaras Leica y buen rendimiento",
-   "summary": "Las tiendas están lanzando muchas ofertas en móviles, por lo que va siendo hora de renovarlo si no queremos esperar la llegada del Black Friday. MediaMarkt, por ejemplo, ahora mismo tiene el Xiaomi 17T con un doblete de descuentos que lo deja por 506,22 euros ; además, está…",
-   "link": "https://www.xataka.com/seleccion/doblete-descuentos-xiaomi-17t-gama-alta-asequible-camaras-leica-buen-rendimiento",
-   "date": "2026-11-11T16:45:51+00:00"
-  },
-  {
    "category": "Economía",
    "source": "Ámbito",
    "title": "La visita del papa León XIV oxigenó al turismo: movilizó una multitud y el impacto económico superó los u$s88 millones en CABA",
@@ -922,44 +986,12 @@
    "date": "2026-11-11T16:34:00+00:00"
   },
   {
-   "category": "Tecnología",
-   "source": "Xataka",
-   "title": "Cada vez más gente está viendo el nuevo icono '5G+' en sus móviles. Y es una buena noticia para ellos",
-   "summary": "Yo me di cuenta hace algo más de un mes, poco después de actualizar a iOS 27 : en la parte superior de mi teléfono (un iPhone 14 Pro ) apareció de pronto el icono '5G+' junto a las barras que indican la cobertura móvil. Y no soy la única, cada vez más usuarios están viendo…",
-   "link": "https://www.xataka.com/telefono-movil/cada-vez-gente-esta-viendo-nuevo-icono-5g-sus-moviles-buena-noticia-para-ellos",
-   "date": "2026-11-11T16:31:49+00:00"
-  },
-  {
-   "category": "Tecnología",
-   "source": "Xataka",
-   "title": "Elegimos cuatro dispositivos rebajados del 11.11 de AliExpress: hay un móvil superventas o uno de los mejores auriculares de diadema",
-   "summary": "El 11 de noviembre es el denominado Día del Soltero (o Single's Day) y si hay una tienda que lo aprovecha bien es AliExpress . Hoy es uno de los días más potentes de su particular Black Friday y ya os hemos ido trayendo ofertas que nos han parecido especialmente interesantes…",
-   "link": "https://www.xataka.com/seleccion/elegimos-cuatro-dispositivos-rebajados-11-11-aliexpress-hay-movil-superventas-uno-mejores-auriculares-diadema",
-   "date": "2026-11-11T16:15:49+00:00"
-  },
-  {
    "category": "Economía",
    "source": "Clarín Economía",
    "title": "Inflación: cuánto fue el IPC de octubre y qué suba de precios se espera hasta fin de año",
    "summary": "Este jueves se conocerá el IPC de octubre. En septiembre fue de 1,9%. La inflación promedio del último año quedó estable apenas por abajo de 2%. Cómo viene noviembre: ¿ayudó el Cybermonday a bajar algunos precios?",
    "link": "https://www.clarin.com/economia/inflacion-ipc-octubre-suba-precios-espera-fin-ano_0_kBMdcAUElS.html",
    "date": "2026-11-11T16:07:39+00:00"
-  },
-  {
-   "category": "Tecnología",
-   "source": "Xataka",
-   "title": "Hoy en Lidl (rebajado a 37,99 euros): este taladro atornillador Parkside ideal para los manitas de casa",
-   "summary": "Tener a mano una herramienta polivalente para montar muebles, colgar estantes o realizar pequeñas reparaciones sin depender de enchufes ni cables es básico en cualquier hogar. En el catálogo de bricolaje de Lidl, la gama Parkside se ha consolidado como la referencia…",
-   "link": "https://www.xataka.com/seleccion/hoy-lidl-rebajado-a-37-99-euros-este-taladro-atornillador-parkside-ideal-para-manitas-casa",
-   "date": "2026-11-11T16:01:49+00:00"
-  },
-  {
-   "category": "Tecnología",
-   "source": "Xataka",
-   "title": "Por primera vez, un robot ha construido de forma autónoma parte de una estructura en el espacio",
-   "summary": "Para estudiar el espacio profundo y detectar incluso los objetos más débiles necesitaremos telescopios espaciales cada vez más grandes . Si queremos comunicarnos de forma más eficiente en el espacio, son necesarias antenas de transmisión mucho mayores que las que se usan hoy…",
-   "link": "https://www.xataka.com/espacio/primera-vez-robot-ha-construido-forma-autonoma-parte-estructura-espacio",
-   "date": "2026-11-11T16:01:49+00:00"
   },
   {
    "category": "Economía",
@@ -978,14 +1010,6 @@
    "date": "2026-11-11T15:06:00+00:00"
   },
   {
-   "category": "Economía",
-   "source": "Clarín Economía",
-   "title": "Salen los brasileños y entran los mexicanos: se vendió una de las siderúrgicas más antiguas del país",
-   "summary": "Se trata de Acerbrag, que estaba en manos del grupo Votorantim, que ya salió de ese negocio en otros países. La nueva dueña es la mexicana Simec, que se está expandiendo en el mundo.",
-   "link": "https://www.clarin.com/economia/salen-brasilenos-entran-mexicanos-vendio-siderurgicas-antiguas-pais_0_PVeDyTlv5i.html",
-   "date": "2026-11-11T14:58:24+00:00"
-  },
-  {
    "category": "Internacional",
    "source": "BBC Mundo",
    "title": "\"El capitalismo ya trataba mal a las personas; lo que ha cambiado ahora es que esa lógica se ha adoptado (…) en discursos sobre liderazgo\"",
@@ -1002,28 +1026,12 @@
    "date": "2026-11-11T14:42:00+00:00"
   },
   {
-   "category": "Economía",
-   "source": "Clarín Economía",
-   "title": "Reabrieron el aeropuerto de Ezeiza, pero volvió a cerrar dos horas por la partida del Papa: qué pasó con los vuelos",
-   "summary": "Parte de la pista principal estuvo cerrada desde el 25 de octubre, pero volvió a operar esta madrugada. Por el vuelo de León XIV, a las 14, se bloqueó el espacio aéreo entre las 13 y las 15 horas.",
-   "link": "https://www.clarin.com/economia/ezeiza-reabrio-volvera-cerrar-horas-partida-papa-pasa-vuelos_0_eCvDcQBLLT.html",
-   "date": "2026-11-11T13:19:28+00:00"
-  },
-  {
    "category": "Internacional",
    "source": "BBC Mundo",
    "title": "La inspiradora historia de Zaher, el niño que perdió sus dos piernas en Sudán y recibió el apoyo de su ídolo Vinicius Jr para volver a jugar al fútbol",
    "summary": "Zaher habló el año pasado con el Servicio Mundial de la BBC sobre su futbolista favorito y su sueño de poder volver a caminar y jugar a la pelota con sus amigos.",
    "link": "https://www.bbc.com/mundo/articles/c69q8gxvp0pro?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-11T12:41:31+00:00"
-  },
-  {
-   "category": "Economía",
-   "source": "Clarín Economía",
-   "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cerró el oficial y cuál fue el precio del paralelo, minuto a minuto, este 11 de noviembre",
-   "summary": "El precio del dólar oficial cotizó sin cambios este miércoles, en la primera jornada de la semana, y cerró a $ 1.570 en las pizarras del Banco Nación. En tanto el dólar blue subió $ 15 y finalizó la jornada en $ 1.570 en el mercado informal.",
-   "link": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-minuto-minuto-11-noviembre_0_Acl5XKXH0Q.html",
-   "date": "2026-11-11T11:38:10+00:00"
   },
   {
    "category": "Internacional",
@@ -1040,14 +1048,6 @@
    "summary": "El tratamiento para la demencia infantil está disponible en Estados Unidos, pero su costo es demasiado elevado para quien no vive allí.",
    "link": "https://www.bbc.com/mundo/articles/cxzd6dej1328o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-11T10:46:15+00:00"
-  },
-  {
-   "category": "Internacional",
-   "source": "BBC Mundo",
-   "title": "3 claves de la primera huelga general en España en 14 años (y la paradoja de que el gobierno la defienda y la oposición la critique)",
-   "summary": "A menos de 20 días para las elecciones generales, los españoles están convocados a un parón masivo este miércoles para protestar por la crisis de la vivienda y el costo de la vida.",
-   "link": "https://www.bbc.com/mundo/articles/cmlyly7jwq24o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-11T04:58:21+00:00"
   },
   {
    "category": "Economía",
